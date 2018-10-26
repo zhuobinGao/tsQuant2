@@ -1,0 +1,62 @@
+2018-09-11 09:59:48,100 - daily_crawler_mysql.py[line:19] - INFO: 已设置初始任务
+2018-09-11 09:59:48,148 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000004.SZ' '19901201' '20180920'] [1/1179]
+2018-09-11 09:59:48,148 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002725.SZ' '19901201' '20180920'] [1/1179]
+2018-09-11 09:59:48,150 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600303.SH' '19901201' '20180920'] [1/1178]
+2018-09-11 09:59:49,516 - mysql_init.py[line:109] - INFO:  影响132行
+2018-09-11 09:59:49,541 - mysql_init.py[line:109] - INFO:  影响372行
+2018-09-11 09:59:49,733 - mysql_init.py[line:109] - INFO:  影响167行
+2018-09-11 09:59:49,859 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002726.SZ' '19901201' '20180920'] [2/1179]
+2018-09-11 09:59:49,958 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000005.SZ' '19901201' '20180920'] [2/1179]
+2018-09-11 09:59:50,059 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600305.SH' '19901201' '20180920'] [2/1178]
+2018-09-11 09:59:51,166 - mysql_init.py[line:109] - INFO:  影响75行
+2018-09-11 09:59:51,302 - mysql_init.py[line:109] - INFO:  影响496行
+2018-09-11 09:59:51,303 - mysql_init.py[line:109] - INFO:  影响87行
+2018-09-11 09:59:51,609 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002727.SZ' '19901201' '20180920'] [3/1179]
+2018-09-11 09:59:51,647 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000006.SZ' '19901201' '20180920'] [3/1179]
+2018-09-11 09:59:51,647 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600306.SH' '19901201' '20180920'] [3/1178]
+2018-09-11 09:59:52,938 - mysql_init.py[line:109] - INFO:  影响98行
+2018-09-11 09:59:53,302 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002728.SZ' '19901201' '20180920'] [4/1179]
+2018-09-11 09:59:53,530 - mysql_init.py[line:109] - INFO:  影响235行
+2018-09-11 09:59:53,530 - mysql_init.py[line:109] - INFO:  影响347行
+2018-09-11 09:59:53,850 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600307.SH' '19901201' '20180920'] [4/1178]
+2018-09-11 09:59:53,969 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000007.SZ' '19901201' '20180920'] [4/1179]
+2018-09-11 09:59:54,932 - mysql_init.py[line:109] - INFO:  影响132行
+2018-09-11 09:59:55,304 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002729.SZ' '19901201' '20180920'] [5/1179]
+2018-09-11 09:59:55,544 - mysql_init.py[line:109] - INFO:  影响118行
+2018-09-11 09:59:56,136 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600308.SH' '19901201' '20180920'] [5/1178]
+2018-09-11 09:59:56,755 - mysql_init.py[line:109] - INFO:  影响791行
+2018-09-11 09:59:56,892 - mysql_init.py[line:109] - INFO:  影响98行
+2018-09-11 09:59:56,893 - mysql_init.py[line:109] - INFO:  影响91行
+2018-09-11 09:59:57,343 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000008.SZ' '19901201' '20180920'] [5/1179]
+2018-09-11 09:59:57,345 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002730.SZ' '19901201' '20180920'] [6/1179]
+2018-09-11 09:59:57,345 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600309.SH' '19901201' '20180920'] [6/1178]
+2018-09-11 10:00:01,375 - mysql_init.py[line:109] - INFO:  影响133行
+2018-09-11 10:00:02,210 - mysql_init.py[line:109] - INFO:  影响437行
+2018-09-11 10:00:02,580 - mysql_init.py[line:109] - INFO:  影响233行
+2018-09-11 10:00:02,581 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002731.SZ' '19901201' '20180920'] [7/1179]
+2018-09-11 10:00:02,582 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000009.SZ' '19901201' '20180920'] [6/1179]
+2018-09-11 10:00:02,941 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600310.SH' '19901201' '20180920'] [7/1178]
+2018-09-11 10:00:03,152 - mysql_init.py[line:109] - INFO:  影响4行
+2018-09-11 10:00:03,545 - mysql_init.py[line:109] - INFO:  影响229行
+2018-09-11 10:00:04,045 - mysql_init.py[line:109] - INFO:  影响104行
+2018-09-11 10:00:04,046 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002732.SZ' '19901201' '20180920'] [8/1179]
+2018-09-11 10:00:04,420 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000010.SZ' '19901201' '20180920'] [7/1179]
+2018-09-11 10:00:04,608 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600311.SH' '19901201' '20180920'] [8/1178]
+2018-09-11 10:00:05,338 - mysql_init.py[line:109] - INFO:  影响12行
+2018-09-11 10:00:05,764 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002733.SZ' '19901201' '20180920'] [9/1179]
+2018-09-11 10:00:05,894 - mysql_init.py[line:109] - INFO:  影响252行
+2018-09-11 10:00:06,070 - mysql_init.py[line:109] - INFO:  影响1073行
+2018-09-11 10:00:06,224 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600312.SH' '19901201' '20180920'] [9/1178]
+2018-09-11 10:00:06,460 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000011.SZ' '19901201' '20180920'] [8/1179]
+2018-09-11 10:00:08,122 - mysql_init.py[line:109] - INFO:  影响17行
+2018-09-11 10:00:08,321 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002734.SZ' '19901201' '20180920'] [10/1179]
+2018-09-11 10:00:08,352 - mysql_init.py[line:109] - INFO:  影响206行
+2018-09-11 10:00:09,137 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600313.SH' '19901201' '20180920'] [10/1178]
+2018-09-11 10:00:09,312 - mysql_init.py[line:109] - INFO:  影响291行
+2018-09-11 10:00:09,747 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000012.SZ' '19901201' '20180920'] [9/1179]
+2018-09-11 10:00:10,128 - mysql_init.py[line:109] - INFO:  影响314行
+2018-09-11 10:00:10,180 - mysql_init.py[line:109] - INFO:  影响11行
+2018-09-11 10:00:10,181 - mysql_init.py[line:109] - INFO:  影响148行
+2018-09-11 10:00:10,489 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取suspend['600315.SH' '19901201' '20180920'] [11/1178]
+2018-09-11 10:00:11,002 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取suspend['002735.SZ' '19901201' '20180920'] [11/1179]
+2018-09-11 10:00:11,003 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取suspend['000014.SZ' '19901201' '20180920'] [10/1179]

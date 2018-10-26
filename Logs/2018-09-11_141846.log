@@ -1,0 +1,7 @@
+2018-09-11 14:18:47,316 - mysql_init.py[line:37] - INFO: 
+2018-09-11 14:18:47,317 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 14:18:47,413 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取express['000001.SZ' '19901201' '20180920'] [1/7081]
+2018-09-11 14:18:48,420 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 14:18:48,420 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取express['000001.SZ' '20180904' '20180911'] [2/7081]
+2018-09-11 14:18:48,630 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 14:18:48,631 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取express['000004.SZ' '19901201' '20180920'] [3/7081]

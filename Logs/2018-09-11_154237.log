@@ -1,0 +1,65 @@
+2018-09-11 15:42:38,271 - mysql_init.py[line:37] - INFO: 
+2018-09-11 15:42:38,272 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 15:42:38,310 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000001.SZ' '19901201' '20180920'] [1/3542]
+2018-09-11 15:42:38,464 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:38,464 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000002.SZ' '19901201' '20180920'] [2/3542]
+2018-09-11 15:42:38,607 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:38,608 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000004.SZ' '19901201' '20180920'] [3/3542]
+2018-09-11 15:42:38,775 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:38,775 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000005.SZ' '19901201' '20180920'] [4/3542]
+2018-09-11 15:42:38,920 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:38,920 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000006.SZ' '19901201' '20180920'] [5/3542]
+2018-09-11 15:42:39,072 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:39,072 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000007.SZ' '19901201' '20180920'] [6/3542]
+2018-09-11 15:42:39,221 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:39,221 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000008.SZ' '19901201' '20180920'] [7/3542]
+2018-09-11 15:42:39,425 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:39,425 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000009.SZ' '19901201' '20180920'] [8/3542]
+2018-09-11 15:42:39,573 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:39,573 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000010.SZ' '19901201' '20180920'] [9/3542]
+2018-09-11 15:42:39,723 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:39,723 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000011.SZ' '19901201' '20180920'] [10/3542]
+2018-09-11 15:42:39,891 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:39,891 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000012.SZ' '19901201' '20180920'] [11/3542]
+2018-09-11 15:42:40,055 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:40,055 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000014.SZ' '19901201' '20180920'] [12/3542]
+2018-09-11 15:42:40,203 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:40,204 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000016.SZ' '19901201' '20180920'] [13/3542]
+2018-09-11 15:42:40,358 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:40,359 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000017.SZ' '19901201' '20180920'] [14/3542]
+2018-09-11 15:42:40,525 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:40,525 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000018.SZ' '19901201' '20180920'] [15/3542]
+2018-09-11 15:42:40,682 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:40,682 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000019.SZ' '19901201' '20180920'] [16/3542]
+2018-09-11 15:42:40,829 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:40,829 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000020.SZ' '19901201' '20180920'] [17/3542]
+2018-09-11 15:42:40,980 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:40,980 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000021.SZ' '19901201' '20180920'] [18/3542]
+2018-09-11 15:42:41,123 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:41,123 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000022.SZ' '19901201' '20180920'] [19/3542]
+2018-09-11 15:42:41,271 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:41,271 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000023.SZ' '19901201' '20180920'] [20/3542]
+2018-09-11 15:42:41,676 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:41,677 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000025.SZ' '19901201' '20180920'] [21/3542]
+2018-09-11 15:42:41,888 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:41,888 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000026.SZ' '19901201' '20180920'] [22/3542]
+2018-09-11 15:42:42,031 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:42,031 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000027.SZ' '19901201' '20180920'] [23/3542]
+2018-09-11 15:42:42,437 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:42,437 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000028.SZ' '19901201' '20180920'] [24/3542]
+2018-09-11 15:42:42,619 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:42,619 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000029.SZ' '19901201' '20180920'] [25/3542]
+2018-09-11 15:42:43,008 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:43,009 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000030.SZ' '19901201' '20180920'] [26/3542]
+2018-09-11 15:42:43,246 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:43,246 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000031.SZ' '19901201' '20180920'] [27/3542]
+2018-09-11 15:42:43,389 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:43,389 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000032.SZ' '19901201' '20180920'] [28/3542]
+2018-09-11 15:42:43,772 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:43,772 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000034.SZ' '19901201' '20180920'] [29/3542]
+2018-09-11 15:42:44,004 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:44,004 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000035.SZ' '19901201' '20180920'] [30/3542]
+2018-09-11 15:42:44,144 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:44,144 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000036.SZ' '19901201' '20180920'] [31/3542]
+2018-09-11 15:42:44,556 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:44,556 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000037.SZ' '19901201' '20180920'] [32/3542]

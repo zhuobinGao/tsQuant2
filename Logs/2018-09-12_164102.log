@@ -1,0 +1,8 @@
+2018-09-12 16:41:07,596 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息MSCI 影响3198行
+2018-09-12 16:41:19,364 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息CSI 影响2430行
+2018-09-12 16:41:24,085 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息SSE 影响623行
+2018-09-12 16:41:27,753 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息SZSE 影响417行
+2018-09-12 16:41:28,435 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息CICC 影响62行
+2018-09-12 16:41:30,302 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息SW 影响506行
+2018-09-12 16:41:34,278 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息CNI 影响608行
+2018-09-12 16:41:36,321 - mysql_init.py[line:115] - INFO: 更新股票指数基本信息OTH 影响502行

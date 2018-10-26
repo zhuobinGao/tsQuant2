@@ -1,0 +1,17 @@
+2018-09-11 09:20:18,912 - daily_crawler_mysql.py[line:19] - INFO: 已设置初始任务
+2018-09-11 09:20:18,959 - daily_crawler_mysql.py[line:64] - INFO: Thread-1抓取daily['000001.SZ' '19901201' '20180920'] [1/886]
+2018-09-11 09:20:18,960 - daily_crawler_mysql.py[line:64] - INFO: Thread-2抓取daily['002424.SZ' '19901201' '20180920'] [1/886]
+2018-09-11 09:20:18,961 - daily_crawler_mysql.py[line:64] - INFO: Thread-3抓取daily['300399.SZ' '19901201' '20180920'] [1/885]
+2018-09-11 09:20:18,962 - daily_crawler_mysql.py[line:64] - INFO: Thread-4抓取daily['600665.SH' '19901201' '20180920'] [1/885]
+2018-09-11 09:20:20,343 - mysql_init.py[line:109] - INFO:  影响962行
+2018-09-11 09:20:20,499 - daily_crawler_mysql.py[line:64] - INFO: Thread-3抓取daily['300400.SZ' '19901201' '20180920'] [2/885]
+2018-09-11 09:20:23,832 - mysql_init.py[line:109] - INFO:  影响961行
+2018-09-11 09:20:24,258 - daily_crawler_mysql.py[line:64] - INFO: Thread-3抓取daily['300401.SZ' '19901201' '20180920'] [3/885]
+2018-09-11 09:20:27,729 - mysql_init.py[line:109] - INFO:  影响2013行
+2018-09-11 09:20:28,074 - mysql_init.py[line:109] - INFO:  影响962行
+2018-09-11 09:20:28,075 - mysql_init.py[line:109] - INFO:  影响4000行
+2018-09-11 09:20:28,075 - mysql_init.py[line:109] - INFO:  影响4000行
+2018-09-11 09:20:28,078 - daily_crawler_mysql.py[line:64] - INFO: Thread-2抓取daily['002425.SZ' '19901201' '20180920'] [2/886]
+2018-09-11 09:20:28,341 - daily_crawler_mysql.py[line:64] - INFO: Thread-1抓取daily['000002.SZ' '19901201' '20180920'] [2/886]
+2018-09-11 09:20:28,451 - daily_crawler_mysql.py[line:64] - INFO: Thread-4抓取daily['600666.SH' '19901201' '20180920'] [2/885]
+2018-09-11 09:20:28,454 - daily_crawler_mysql.py[line:64] - INFO: Thread-3抓取daily['300402.SZ' '19901201' '20180920'] [4/885]

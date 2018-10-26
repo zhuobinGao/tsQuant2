@@ -1,0 +1,2 @@
+2018-09-10 16:55:03,164 - mysql_init.py[line:79] - INFO: 成功创建表job_basic
+2018-09-10 16:55:04,216 - mysql_init.py[line:79] - INFO: 成功创建表job_finance_basic

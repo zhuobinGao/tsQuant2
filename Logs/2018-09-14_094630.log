@@ -1,0 +1,739 @@
+2018-09-14 09:46:30,917 - mysql_init.py[line:40] - INFO: 
+2018-09-14 09:46:30,917 - daily_crawler_mysql.py[line:20] - INFO: 已设置初始任务
+2018-09-14 09:46:30,953 - daily_crawler_mysql.py[line:68] - INFO: Thread-21抓取suspend['000965.SZ' '19901201' '20180920'] [1/36]
+2018-09-14 09:46:30,956 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002043.SZ' '19901201' '20180920'] [1/36]
+2018-09-14 09:46:30,960 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002711.SZ' '19901201' '20180920'] [1/36]
+2018-09-14 09:46:30,963 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002749.SZ' '19901201' '20180920'] [1/36]
+2018-09-14 09:46:30,964 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002789.SZ' '19901201' '20180920'] [1/36]
+2018-09-14 09:46:30,965 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300395.SZ' '19901201' '20180920'] [1/35]
+2018-09-14 09:46:30,966 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300653.SZ' '19901201' '20180920'] [1/35]
+2018-09-14 09:46:30,967 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603133.SH' '19901201' '20180920'] [1/35]
+2018-09-14 09:46:30,968 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603363.SH' '19901201' '20180920'] [1/35]
+2018-09-14 09:46:30,969 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603707.SH' '19901201' '20180920'] [1/35]
+2018-09-14 09:46:31,004 - daily_crawler_mysql.py[line:68] - INFO: Thread-31抓取daily_basic['000616.SZ' '19901201' '20180920'] [1/3]
+2018-09-14 09:46:31,005 - daily_crawler_mysql.py[line:68] - INFO: Thread-32抓取daily_basic['000637.SZ' '19901201' '20180920'] [1/3]
+2018-09-14 09:46:31,006 - daily_crawler_mysql.py[line:68] - INFO: Thread-33抓取daily_basic['000691.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,007 - daily_crawler_mysql.py[line:68] - INFO: Thread-34抓取daily_basic['000767.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,008 - daily_crawler_mysql.py[line:68] - INFO: Thread-35抓取daily_basic['000776.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,009 - daily_crawler_mysql.py[line:68] - INFO: Thread-36抓取daily_basic['000778.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,010 - daily_crawler_mysql.py[line:68] - INFO: Thread-37抓取daily_basic['002007.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,011 - daily_crawler_mysql.py[line:68] - INFO: Thread-38抓取daily_basic['002009.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,012 - daily_crawler_mysql.py[line:68] - INFO: Thread-39抓取daily_basic['002011.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,012 - daily_crawler_mysql.py[line:68] - INFO: Thread-40抓取daily_basic['002013.SZ' '19901201' '20180920'] [1/2]
+2018-09-14 09:46:31,537 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:31,537 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603709.SH' '19901201' '20180920'] [2/35]
+2018-09-14 09:46:32,143 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:32,144 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300417.SZ' '19901201' '20180920'] [2/35]
+2018-09-14 09:46:32,262 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002711.SZ' '19901201' '20180920']] 影响109行
+2018-09-14 09:46:32,425 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002043.SZ' '19901201' '20180920']] 影响176行
+2018-09-14 09:46:32,875 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002711.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:32,876 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002712.SZ' '19901201' '20180920'] [2/36]
+2018-09-14 09:46:33,029 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002043.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:33,031 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002044.SZ' '19901201' '20180920'] [2/36]
+2018-09-14 09:46:35,524 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:35,525 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300445.SZ' '19901201' '20180920'] [3/35]
+2018-09-14 09:46:35,630 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:35,630 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002790.SZ' '19901201' '20180920'] [2/36]
+2018-09-14 09:46:35,692 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:35,692 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603380.SH' '19901201' '20180920'] [2/35]
+2018-09-14 09:46:35,742 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:35,742 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:35,743 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603138.SH' '19901201' '20180920'] [2/35]
+2018-09-14 09:46:35,743 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300661.SZ' '19901201' '20180920'] [2/35]
+2018-09-14 09:46:35,990 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:35,990 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002750.SZ' '19901201' '20180920'] [2/36]
+2018-09-14 09:46:36,618 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:36,619 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603713.SH' '19901201' '20180920'] [3/35]
+2018-09-14 09:46:37,470 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002712.SZ' '19901201' '20180920']] 影响198行
+2018-09-14 09:46:38,119 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:38,119 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002791.SZ' '19901201' '20180920'] [3/36]
+2018-09-14 09:46:38,447 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002044.SZ' '19901201' '20180920']] 影响374行
+2018-09-14 09:46:38,496 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:38,510 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:38,531 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300485.SZ' '19901201' '20180920'] [4/35]
+2018-09-14 09:46:38,550 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300673.SZ' '19901201' '20180920'] [3/35]
+2018-09-14 09:46:38,551 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:38,577 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:38,581 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603385.SH' '19901201' '20180920'] [3/35]
+2018-09-14 09:46:38,591 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603139.SH' '19901201' '20180920'] [3/35]
+2018-09-14 09:46:38,725 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:38,740 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603727.SH' '19901201' '20180920'] [4/35]
+2018-09-14 09:46:38,835 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002712.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:38,863 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002713.SZ' '19901201' '20180920'] [3/36]
+2018-09-14 09:46:39,202 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002044.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:39,358 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002045.SZ' '19901201' '20180920'] [3/36]
+2018-09-14 09:46:39,656 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:39,667 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002792.SZ' '19901201' '20180920'] [4/36]
+2018-09-14 09:46:39,672 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:39,709 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300489.SZ' '19901201' '20180920'] [5/35]
+2018-09-14 09:46:39,719 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002750.SZ' '19901201' '20180920']] 影响4行
+2018-09-14 09:46:40,469 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:40,470 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002811.SZ' '19901201' '20180920'] [5/36]
+2018-09-14 09:46:40,621 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:40,626 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:40,653 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300494.SZ' '19901201' '20180920'] [6/35]
+2018-09-14 09:46:40,663 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300677.SZ' '19901201' '20180920'] [4/35]
+2018-09-14 09:46:40,697 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:40,723 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:40,840 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002750.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:40,856 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603387.SH' '19901201' '20180920'] [4/35]
+2018-09-14 09:46:40,864 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603159.SH' '19901201' '20180920'] [4/35]
+2018-09-14 09:46:40,929 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:40,939 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002751.SZ' '19901201' '20180920'] [3/36]
+2018-09-14 09:46:40,966 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002713.SZ' '19901201' '20180920']] 影响36行
+2018-09-14 09:46:41,096 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:41,097 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603737.SH' '19901201' '20180920'] [5/35]
+2018-09-14 09:46:41,267 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002818.SZ' '19901201' '20180920'] [6/36]
+2018-09-14 09:46:41,471 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:41,472 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300499.SZ' '19901201' '20180920'] [7/35]
+2018-09-14 09:46:41,585 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:41,596 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603444.SH' '19901201' '20180920'] [5/35]
+2018-09-14 09:46:41,621 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:41,662 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603161.SH' '19901201' '20180920'] [5/35]
+2018-09-14 09:46:42,168 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:42,184 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603458.SH' '19901201' '20180920'] [6/35]
+2018-09-14 09:46:42,464 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:42,465 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603488.SH' '19901201' '20180920'] [7/35]
+2018-09-14 09:46:42,575 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:42,592 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300684.SZ' '19901201' '20180920'] [5/35]
+2018-09-14 09:46:42,607 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:42,623 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:42,672 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:42,709 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:42,846 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603767.SH' '19901201' '20180920'] [6/35]
+2018-09-14 09:46:42,872 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002832.SZ' '19901201' '20180920'] [7/36]
+2018-09-14 09:46:42,898 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603167.SH' '19901201' '20180920'] [6/35]
+2018-09-14 09:46:42,919 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300501.SZ' '19901201' '20180920'] [8/35]
+2018-09-14 09:46:43,561 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002713.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:43,577 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002714.SZ' '19901201' '20180920'] [4/36]
+2018-09-14 09:46:43,609 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002045.SZ' '19901201' '20180920']] 影响120行
+2018-09-14 09:46:43,655 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002751.SZ' '19901201' '20180920']] 影响13行
+2018-09-14 09:46:43,729 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:43,740 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300698.SZ' '19901201' '20180920'] [6/35]
+2018-09-14 09:46:43,993 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:44,003 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:44,018 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002833.SZ' '19901201' '20180920'] [8/36]
+2018-09-14 09:46:44,049 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603507.SH' '19901201' '20180920'] [8/35]
+2018-09-14 09:46:44,115 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:44,125 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:44,256 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:44,347 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:44,378 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603178.SH' '19901201' '20180920'] [7/35]
+2018-09-14 09:46:44,452 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603801.SH' '19901201' '20180920'] [7/35]
+2018-09-14 09:46:44,487 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300511.SZ' '19901201' '20180920'] [9/35]
+2018-09-14 09:46:44,492 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300703.SZ' '19901201' '20180920'] [7/35]
+2018-09-14 09:46:44,918 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002751.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:44,955 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002752.SZ' '19901201' '20180920'] [4/36]
+2018-09-14 09:46:44,967 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:44,967 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002845.SZ' '19901201' '20180920'] [9/36]
+2018-09-14 09:46:45,015 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,015 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603180.SH' '19901201' '20180920'] [8/35]
+2018-09-14 09:46:45,121 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002045.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:45,143 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002013.SZ' '19901201' '20180920']] 影响3457行
+2018-09-14 09:46:45,154 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002046.SZ' '19901201' '20180920'] [4/36]
+2018-09-14 09:46:45,208 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,218 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603527.SH' '19901201' '20180920'] [9/35]
+2018-09-14 09:46:45,234 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,255 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300729.SZ' '19901201' '20180920'] [8/35]
+2018-09-14 09:46:45,270 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,270 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603181.SH' '19901201' '20180920'] [9/35]
+2018-09-14 09:46:45,277 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,277 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002862.SZ' '19901201' '20180920'] [10/36]
+2018-09-14 09:46:45,408 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002714.SZ' '19901201' '20180920']] 影响26行
+2018-09-14 09:46:45,528 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,529 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,530 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,547 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603813.SH' '19901201' '20180920'] [8/35]
+2018-09-14 09:46:45,599 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300514.SZ' '19901201' '20180920'] [10/35]
+2018-09-14 09:46:45,610 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603183.SH' '19901201' '20180920'] [10/35]
+2018-09-14 09:46:45,679 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,758 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:45,862 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:46,184 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603535.SH' '19901201' '20180920'] [10/35]
+2018-09-14 09:46:46,195 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002871.SZ' '19901201' '20180920'] [11/36]
+2018-09-14 09:46:46,202 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300739.SZ' '19901201' '20180920'] [9/35]
+2018-09-14 09:46:46,261 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002752.SZ' '19901201' '20180920']] 影响62行
+2018-09-14 09:46:46,421 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:46,463 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:46,484 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:46,585 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:46,691 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002714.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:46,733 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002013.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:46,796 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603817.SH' '19901201' '20180920'] [9/35]
+2018-09-14 09:46:46,838 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:46,944 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300517.SZ' '19901201' '20180920'] [11/35]
+2018-09-14 09:46:46,955 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603186.SH' '19901201' '20180920'] [11/35]
+2018-09-14 09:46:46,977 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:47,022 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603536.SH' '19901201' '20180920'] [11/35]
+2018-09-14 09:46:47,111 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002046.SZ' '19901201' '20180920']] 影响164行
+2018-09-14 09:46:47,121 - daily_crawler_mysql.py[line:68] - INFO: Thread-40抓取daily_basic['002014.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:47,141 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002715.SZ' '19901201' '20180920'] [5/36]
+2018-09-14 09:46:47,260 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002875.SZ' '19901201' '20180920'] [12/36]
+2018-09-14 09:46:47,443 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300743.SZ' '19901201' '20180920'] [10/35]
+2018-09-14 09:46:47,612 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:47,680 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:47,766 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002752.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:47,872 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603197.SH' '19901201' '20180920'] [12/35]
+2018-09-14 09:46:47,902 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:47,919 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603819.SH' '19901201' '20180920'] [10/35]
+2018-09-14 09:46:47,996 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300528.SZ' '19901201' '20180920'] [12/35]
+2018-09-14 09:46:48,007 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002753.SZ' '19901201' '20180920'] [5/36]
+2018-09-14 09:46:48,526 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:48,527 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603557.SH' '19901201' '20180920'] [12/35]
+2018-09-14 09:46:48,533 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:48,533 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002755.SZ' '19901201' '20180920'] [6/36]
+2018-09-14 09:46:48,607 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:48,607 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002879.SZ' '19901201' '20180920'] [13/36]
+2018-09-14 09:46:48,702 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:48,703 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603199.SH' '19901201' '20180920'] [13/35]
+2018-09-14 09:46:48,713 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:48,713 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603826.SH' '19901201' '20180920'] [11/35]
+2018-09-14 09:46:48,740 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:48,745 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['300745.SZ' '19901201' '20180920'] [11/35]
+2018-09-14 09:46:48,746 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:48,767 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300530.SZ' '19901201' '20180920'] [13/35]
+2018-09-14 09:46:49,172 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:49,177 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603829.SH' '19901201' '20180920'] [12/35]
+2018-09-14 09:46:49,312 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:49,318 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002881.SZ' '19901201' '20180920'] [14/36]
+2018-09-14 09:46:49,350 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:49,350 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300531.SZ' '19901201' '20180920'] [14/35]
+2018-09-14 09:46:49,755 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:49,788 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603856.SH' '19901201' '20180920'] [13/35]
+2018-09-14 09:46:49,814 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000778.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:49,819 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000637.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:49,836 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002046.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:49,836 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002715.SZ' '19901201' '20180920']] 影响14行
+2018-09-14 09:46:49,875 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002047.SZ' '19901201' '20180920'] [5/36]
+2018-09-14 09:46:50,393 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:50,416 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603860.SH' '19901201' '20180920'] [14/35]
+2018-09-14 09:46:51,003 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002755.SZ' '19901201' '20180920']] 影响26行
+2018-09-14 09:46:51,024 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:51,029 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603866.SH' '19901201' '20180920'] [15/35]
+2018-09-14 09:46:51,301 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000691.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:51,301 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002007.SZ' '19901201' '20180920']] 影响3463行
+2018-09-14 09:46:51,307 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002011.SZ' '19901201' '20180920']] 影响3457行
+2018-09-14 09:46:51,312 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000637.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:51,329 - daily_crawler_mysql.py[line:68] - INFO: Thread-32抓取daily_basic['000638.SZ' '19901201' '20180920'] [2/3]
+2018-09-14 09:46:51,334 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002715.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:51,344 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000778.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:51,377 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002716.SZ' '19901201' '20180920'] [6/36]
+2018-09-14 09:46:51,402 - daily_crawler_mysql.py[line:68] - INFO: Thread-36抓取daily_basic['000779.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:51,530 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:51,535 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603868.SH' '19901201' '20180920'] [16/35]
+2018-09-14 09:46:51,947 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:51,952 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603568.SH' '19901201' '20180920'] [13/35]
+2018-09-14 09:46:52,029 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:52,035 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603200.SH' '19901201' '20180920'] [14/35]
+2018-09-14 09:46:52,126 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:52,126 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['600917.SH' '19901201' '20180920'] [12/35]
+2018-09-14 09:46:52,469 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:52,475 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002887.SZ' '19901201' '20180920'] [15/36]
+2018-09-14 09:46:52,495 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:52,496 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300533.SZ' '19901201' '20180920'] [15/35]
+2018-09-14 09:46:52,740 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:52,746 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603879.SH' '19901201' '20180920'] [17/35]
+2018-09-14 09:46:53,036 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002755.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:53,036 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002756.SZ' '19901201' '20180920'] [7/36]
+2018-09-14 09:46:53,115 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:53,116 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603577.SH' '19901201' '20180920'] [14/35]
+2018-09-14 09:46:53,119 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:53,119 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['601330.SH' '19901201' '20180920'] [13/35]
+2018-09-14 09:46:53,504 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:53,506 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:53,506 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300538.SZ' '19901201' '20180920'] [16/35]
+2018-09-14 09:46:53,506 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002900.SZ' '19901201' '20180920'] [16/36]
+2018-09-14 09:46:53,775 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:53,787 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603208.SH' '19901201' '20180920'] [15/35]
+2018-09-14 09:46:53,990 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000767.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:54,252 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:54,282 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:54,287 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603882.SH' '19901201' '20180920'] [18/35]
+2018-09-14 09:46:54,287 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:54,302 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:54,309 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['601811.SH' '19901201' '20180920'] [14/35]
+2018-09-14 09:46:54,342 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:54,352 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603585.SH' '19901201' '20180920'] [15/35]
+2018-09-14 09:46:54,358 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300547.SZ' '19901201' '20180920'] [17/35]
+2018-09-14 09:46:54,373 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002923.SZ' '19901201' '20180920'] [17/36]
+2018-09-14 09:46:54,819 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:54,824 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603218.SH' '19901201' '20180920'] [16/35]
+2018-09-14 09:46:54,971 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:54,972 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300549.SZ' '19901201' '20180920'] [18/35]
+2018-09-14 09:46:55,009 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,010 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603586.SH' '19901201' '20180920'] [16/35]
+2018-09-14 09:46:55,045 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,046 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,046 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['601858.SH' '19901201' '20180920'] [15/35]
+2018-09-14 09:46:55,047 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['002935.SZ' '19901201' '20180920'] [18/36]
+2018-09-14 09:46:55,059 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,064 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603897.SH' '19901201' '20180920'] [19/35]
+2018-09-14 09:46:55,116 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,128 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603228.SH' '19901201' '20180920'] [17/35]
+2018-09-14 09:46:55,236 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,246 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['601878.SH' '19901201' '20180920'] [16/35]
+2018-09-14 09:46:55,268 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,280 - daily_crawler_mysql.py[line:68] - INFO: Thread-25抓取suspend['300340.SZ' '19901201' '20180920'] [19/36]
+2018-09-14 09:46:55,332 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,337 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603229.SH' '19901201' '20180920'] [18/35]
+2018-09-14 09:46:55,414 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,424 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,429 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300550.SZ' '19901201' '20180920'] [19/35]
+2018-09-14 09:46:55,434 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603590.SH' '19901201' '20180920'] [17/35]
+2018-09-14 09:46:55,475 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,480 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603899.SH' '19901201' '20180920'] [20/35]
+2018-09-14 09:46:55,493 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,498 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603013.SH' '19901201' '20180920'] [17/35]
+2018-09-14 09:46:55,571 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,576 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603232.SH' '19901201' '20180920'] [19/35]
+2018-09-14 09:46:55,667 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,672 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300551.SZ' '19901201' '20180920'] [20/35]
+2018-09-14 09:46:55,825 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:55,835 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603595.SH' '19901201' '20180920'] [18/35]
+2018-09-14 09:46:56,361 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,362 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603903.SH' '19901201' '20180920'] [21/35]
+2018-09-14 09:46:56,380 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,381 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603020.SH' '19901201' '20180920'] [18/35]
+2018-09-14 09:46:56,385 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,385 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300558.SZ' '19901201' '20180920'] [21/35]
+2018-09-14 09:46:56,395 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,396 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603258.SH' '19901201' '20180920'] [20/35]
+2018-09-14 09:46:56,421 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,422 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603596.SH' '19901201' '20180920'] [19/35]
+2018-09-14 09:46:56,530 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,533 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,534 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300559.SZ' '19901201' '20180920'] [22/35]
+2018-09-14 09:46:56,535 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603023.SH' '19901201' '20180920'] [19/35]
+2018-09-14 09:46:56,560 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,563 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,564 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603260.SH' '19901201' '20180920'] [21/35]
+2018-09-14 09:46:56,565 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603906.SH' '19901201' '20180920'] [22/35]
+2018-09-14 09:46:56,688 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002009.SZ' '19901201' '20180920']] 影响3461行
+2018-09-14 09:46:56,689 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000691.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:56,689 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002011.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:56,690 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000616.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:56,690 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002007.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:56,695 - daily_crawler_mysql.py[line:68] - INFO: Thread-33抓取daily_basic['000692.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:56,697 - daily_crawler_mysql.py[line:68] - INFO: Thread-39抓取daily_basic['002012.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:56,707 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,710 - daily_crawler_mysql.py[line:68] - INFO: Thread-37抓取daily_basic['002008.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:56,713 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300560.SZ' '19901201' '20180920'] [23/35]
+2018-09-14 09:46:56,732 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,733 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603605.SH' '19901201' '20180920'] [20/35]
+2018-09-14 09:46:56,757 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,758 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603908.SH' '19901201' '20180920'] [23/35]
+2018-09-14 09:46:56,769 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,769 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603031.SH' '19901201' '20180920'] [20/35]
+2018-09-14 09:46:56,776 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,777 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603266.SH' '19901201' '20180920'] [22/35]
+2018-09-14 09:46:56,863 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:56,864 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300572.SZ' '19901201' '20180920'] [24/35]
+2018-09-14 09:46:56,868 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002716.SZ' '19901201' '20180920']] 影响178行
+2018-09-14 09:46:56,868 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002014.SZ' '19901201' '20180920']] 影响3454行
+2018-09-14 09:46:56,868 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000767.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:56,868 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000776.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:56,869 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002047.SZ' '19901201' '20180920']] 影响302行
+2018-09-14 09:46:56,874 - daily_crawler_mysql.py[line:68] - INFO: Thread-34抓取daily_basic['000768.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:57,598 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002756.SZ' '19901201' '20180920']] 影响137行
+2018-09-14 09:46:58,575 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000616.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:58,576 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002716.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:58,576 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000779.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:58,576 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002009.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:58,577 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000638.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:46:58,578 - daily_crawler_mysql.py[line:68] - INFO: Thread-31抓取daily_basic['000617.SZ' '19901201' '20180920'] [2/3]
+2018-09-14 09:46:58,578 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002014.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:58,579 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002047.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:58,579 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000776.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:58,580 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002717.SZ' '19901201' '20180920'] [7/36]
+2018-09-14 09:46:58,595 - daily_crawler_mysql.py[line:68] - INFO: Thread-38抓取daily_basic['002010.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:58,598 - daily_crawler_mysql.py[line:68] - INFO: Thread-35抓取daily_basic['000777.SZ' '19901201' '20180920'] [2/2]
+2018-09-14 09:46:58,599 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002048.SZ' '19901201' '20180920'] [6/36]
+2018-09-14 09:46:58,698 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002756.SZ' '19901201' '20180920']]状态
+2018-09-14 09:46:58,700 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002757.SZ' '19901201' '20180920'] [8/36]
+2018-09-14 09:46:58,823 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:58,823 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603607.SH' '19901201' '20180920'] [21/35]
+2018-09-14 09:46:58,853 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:58,853 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603269.SH' '19901201' '20180920'] [23/35]
+2018-09-14 09:46:58,911 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:58,911 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603036.SH' '19901201' '20180920'] [21/35]
+2018-09-14 09:46:59,431 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:59,432 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300581.SZ' '19901201' '20180920'] [25/35]
+2018-09-14 09:46:59,725 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:46:59,725 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603917.SH' '19901201' '20180920'] [24/35]
+2018-09-14 09:47:00,096 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000779.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:00,164 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000638.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:00,185 - daily_crawler_mysql.py[line:68] - INFO: Thread-32抓取daily_basic['000639.SZ' '19901201' '20180920'] [3/3]
+2018-09-14 09:47:02,140 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002717.SZ' '19901201' '20180920']] 影响163行
+2018-09-14 09:47:02,405 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002048.SZ' '19901201' '20180920']] 影响196行
+2018-09-14 09:47:02,902 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:02,918 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603612.SH' '19901201' '20180920'] [22/35]
+2018-09-14 09:47:02,945 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:02,945 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603037.SH' '19901201' '20180920'] [22/35]
+2018-09-14 09:47:02,998 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:02,998 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300587.SZ' '19901201' '20180920'] [26/35]
+2018-09-14 09:47:02,999 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:03,000 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603277.SH' '19901201' '20180920'] [24/35]
+2018-09-14 09:47:03,059 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:03,193 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603929.SH' '19901201' '20180920'] [25/35]
+2018-09-14 09:47:03,258 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002717.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:03,315 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002718.SZ' '19901201' '20180920'] [8/36]
+2018-09-14 09:47:03,499 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002048.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:03,557 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002049.SZ' '19901201' '20180920'] [7/36]
+2018-09-14 09:47:04,329 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002757.SZ' '19901201' '20180920']] 影响89行
+2018-09-14 09:47:04,653 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:04,653 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603041.SH' '19901201' '20180920'] [23/35]
+2018-09-14 09:47:04,676 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:04,676 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603278.SH' '19901201' '20180920'] [25/35]
+2018-09-14 09:47:04,943 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:04,944 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:04,944 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603619.SH' '19901201' '20180920'] [23/35]
+2018-09-14 09:47:04,975 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:04,997 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603933.SH' '19901201' '20180920'] [26/35]
+2018-09-14 09:47:05,023 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:05,052 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:05,142 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300589.SZ' '19901201' '20180920'] [27/35]
+2018-09-14 09:47:05,162 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002012.SZ' '19901201' '20180920']] 影响3457行
+2018-09-14 09:47:05,193 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603042.SH' '19901201' '20180920'] [24/35]
+2018-09-14 09:47:05,231 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603283.SH' '19901201' '20180920'] [26/35]
+2018-09-14 09:47:05,761 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002757.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:05,851 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002758.SZ' '19901201' '20180920'] [9/36]
+2018-09-14 09:47:05,866 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:05,876 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:05,887 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603630.SH' '19901201' '20180920'] [24/35]
+2018-09-14 09:47:05,897 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603043.SH' '19901201' '20180920'] [25/35]
+2018-09-14 09:47:05,898 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:05,914 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:05,925 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603937.SH' '19901201' '20180920'] [27/35]
+2018-09-14 09:47:05,973 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:06,004 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300600.SZ' '19901201' '20180920'] [28/35]
+2018-09-14 09:47:06,099 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603289.SH' '19901201' '20180920'] [27/35]
+2018-09-14 09:47:06,349 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:06,361 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603045.SH' '19901201' '20180920'] [26/35]
+2018-09-14 09:47:06,372 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:06,387 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:06,408 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002718.SZ' '19901201' '20180920']] 影响26行
+2018-09-14 09:47:06,408 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603938.SH' '19901201' '20180920'] [28/35]
+2018-09-14 09:47:06,419 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603637.SH' '19901201' '20180920'] [25/35]
+2018-09-14 09:47:06,471 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:06,472 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603298.SH' '19901201' '20180920'] [28/35]
+2018-09-14 09:47:06,520 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:06,542 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300601.SZ' '19901201' '20180920'] [29/35]
+2018-09-14 09:47:07,153 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:07,169 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:07,179 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300610.SZ' '19901201' '20180920'] [30/35]
+2018-09-14 09:47:07,200 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603055.SH' '19901201' '20180920'] [27/35]
+2018-09-14 09:47:07,315 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:07,363 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:07,394 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:07,524 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002008.SZ' '19901201' '20180920']] 影响3463行
+2018-09-14 09:47:07,524 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002012.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:07,524 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000692.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:47:07,524 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603301.SH' '19901201' '20180920'] [29/35]
+2018-09-14 09:47:07,544 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002758.SZ' '19901201' '20180920']] 影响11行
+2018-09-14 09:47:07,544 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002049.SZ' '19901201' '20180920']] 影响327行
+2018-09-14 09:47:07,594 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603639.SH' '19901201' '20180920'] [26/35]
+2018-09-14 09:47:07,599 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603963.SH' '19901201' '20180920'] [29/35]
+2018-09-14 09:47:07,670 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:07,926 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:07,993 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002718.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:08,108 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300634.SZ' '19901201' '20180920'] [31/35]
+2018-09-14 09:47:08,119 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603056.SH' '19901201' '20180920'] [28/35]
+2018-09-14 09:47:08,238 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002719.SZ' '19901201' '20180920'] [9/36]
+2018-09-14 09:47:08,645 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:08,645 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603303.SH' '19901201' '20180920'] [30/35]
+2018-09-14 09:47:08,819 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:08,819 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603650.SH' '19901201' '20180920'] [27/35]
+2018-09-14 09:47:08,826 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:08,826 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603966.SH' '19901201' '20180920'] [30/35]
+2018-09-14 09:47:08,879 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:08,885 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:08,900 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300642.SZ' '19901201' '20180920'] [32/35]
+2018-09-14 09:47:08,925 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:08,925 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603059.SH' '19901201' '20180920'] [29/35]
+2018-09-14 09:47:08,990 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603313.SH' '19901201' '20180920'] [31/35]
+2018-09-14 09:47:09,073 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:09,074 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603663.SH' '19901201' '20180920'] [28/35]
+2018-09-14 09:47:09,175 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:09,201 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603968.SH' '19901201' '20180920'] [31/35]
+2018-09-14 09:47:09,521 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002008.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:09,795 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:09,795 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603078.SH' '19901201' '20180920'] [30/35]
+2018-09-14 09:47:09,928 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:09,929 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603319.SH' '19901201' '20180920'] [32/35]
+2018-09-14 09:47:09,979 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002049.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:09,979 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002758.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:09,984 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000692.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:09,996 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,009 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,024 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002759.SZ' '19901201' '20180920'] [10/36]
+2018-09-14 09:47:10,034 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002050.SZ' '19901201' '20180920'] [8/36]
+2018-09-14 09:47:10,054 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603970.SH' '19901201' '20180920'] [32/35]
+2018-09-14 09:47:10,059 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300645.SZ' '19901201' '20180920'] [33/35]
+2018-09-14 09:47:10,059 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,103 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,155 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603666.SH' '19901201' '20180920'] [29/35]
+2018-09-14 09:47:10,191 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603081.SH' '19901201' '20180920'] [31/35]
+2018-09-14 09:47:10,234 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,266 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603337.SH' '19901201' '20180920'] [33/35]
+2018-09-14 09:47:10,623 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,651 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603089.SH' '19901201' '20180920'] [32/35]
+2018-09-14 09:47:10,657 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,658 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603985.SH' '19901201' '20180920'] [33/35]
+2018-09-14 09:47:10,659 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,659 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300650.SZ' '19901201' '20180920'] [34/35]
+2018-09-14 09:47:10,664 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002719.SZ' '19901201' '20180920']] 影响218行
+2018-09-14 09:47:10,664 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,664 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603668.SH' '19901201' '20180920'] [30/35]
+2018-09-14 09:47:10,700 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:10,700 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603356.SH' '19901201' '20180920'] [34/35]
+2018-09-14 09:47:11,258 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,259 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,259 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,260 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,260 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603101.SH' '19901201' '20180920'] [33/35]
+2018-09-14 09:47:11,261 - daily_crawler_mysql.py[line:68] - INFO: Thread-28抓取suspend['603359.SH' '19901201' '20180920'] [35/35]
+2018-09-14 09:47:11,261 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603669.SH' '19901201' '20180920'] [31/35]
+2018-09-14 09:47:11,261 - daily_crawler_mysql.py[line:68] - INFO: Thread-26抓取suspend['300652.SZ' '19901201' '20180920'] [35/35]
+2018-09-14 09:47:11,288 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,289 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603990.SH' '19901201' '20180920'] [34/35]
+2018-09-14 09:47:11,324 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002759.SZ' '19901201' '20180920']] 影响79行
+2018-09-14 09:47:11,464 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,467 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,468 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603127.SH' '19901201' '20180920'] [34/35]
+2018-09-14 09:47:11,570 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,572 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,572 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603676.SH' '19901201' '20180920'] [32/35]
+2018-09-14 09:47:11,572 - daily_crawler_mysql.py[line:68] - INFO: Thread-30抓取suspend['603996.SH' '19901201' '20180920'] [35/35]
+2018-09-14 09:47:11,574 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,706 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,707 - daily_crawler_mysql.py[line:68] - INFO: Thread-27抓取suspend['603129.SH' '19901201' '20180920'] [35/35]
+2018-09-14 09:47:11,744 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,747 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:11,748 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603679.SH' '19901201' '20180920'] [33/35]
+2018-09-14 09:47:12,361 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:12,444 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:12,445 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603689.SH' '19901201' '20180920'] [34/35]
+2018-09-14 09:47:12,835 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:12,836 - daily_crawler_mysql.py[line:68] - INFO: Thread-29抓取suspend['603706.SH' '19901201' '20180920'] [35/35]
+2018-09-14 09:47:12,998 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:13,161 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000777.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:47:13,162 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['002010.SZ' '19901201' '20180920']] 影响3461行
+2018-09-14 09:47:13,162 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000768.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:47:13,162 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002050.SZ' '19901201' '20180920']] 影响238行
+2018-09-14 09:47:13,163 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002719.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:13,179 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002721.SZ' '19901201' '20180920'] [10/36]
+2018-09-14 09:47:13,255 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000617.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:47:13,256 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002759.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:13,256 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000639.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:47:13,258 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002760.SZ' '19901201' '20180920'] [11/36]
+2018-09-14 09:47:13,862 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000777.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:15,408 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['002010.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:15,409 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002050.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:15,409 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000768.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:15,410 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000617.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:15,413 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002051.SZ' '19901201' '20180920'] [9/36]
+2018-09-14 09:47:15,414 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000639.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:15,417 - daily_crawler_mysql.py[line:68] - INFO: Thread-31抓取daily_basic['000636.SZ' '19901201' '20180920'] [3/3]
+2018-09-14 09:47:15,418 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002760.SZ' '19901201' '20180920']] 影响23行
+2018-09-14 09:47:15,523 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002721.SZ' '19901201' '20180920']] 影响401行
+2018-09-14 09:47:17,763 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002760.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:17,765 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002761.SZ' '19901201' '20180920'] [12/36]
+2018-09-14 09:47:18,032 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002721.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:18,049 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002051.SZ' '19901201' '20180920']] 影响244行
+2018-09-14 09:47:18,054 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002722.SZ' '19901201' '20180920'] [11/36]
+2018-09-14 09:47:18,753 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002051.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:18,770 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002052.SZ' '19901201' '20180920'] [10/36]
+2018-09-14 09:47:19,105 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002761.SZ' '19901201' '20180920']] 影响53行
+2018-09-14 09:47:19,111 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002722.SZ' '19901201' '20180920']] 影响91行
+2018-09-14 09:47:19,918 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002722.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:19,919 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002723.SZ' '19901201' '20180920'] [12/36]
+2018-09-14 09:47:20,102 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002052.SZ' '19901201' '20180920']] 影响323行
+2018-09-14 09:47:20,102 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002761.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:20,103 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002762.SZ' '19901201' '20180920'] [13/36]
+2018-09-14 09:47:21,244 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002052.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:21,245 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002053.SZ' '19901201' '20180920'] [11/36]
+2018-09-14 09:47:21,615 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002762.SZ' '19901201' '20180920']] 影响117行
+2018-09-14 09:47:21,615 - mysql_init.py[line:118] - INFO: 执行任务daily_basic[['000636.SZ' '19901201' '20180920']] 影响4000行
+2018-09-14 09:47:21,616 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002723.SZ' '19901201' '20180920']] 影响95行
+2018-09-14 09:47:22,544 - mysql_init.py[line:40] - INFO: 更新执行任务daily_basic[['000636.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:22,995 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002762.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:22,995 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002053.SZ' '19901201' '20180920']] 影响450行
+2018-09-14 09:47:22,996 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002723.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:22,997 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002763.SZ' '19901201' '20180920'] [14/36]
+2018-09-14 09:47:22,999 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002724.SZ' '19901201' '20180920'] [13/36]
+2018-09-14 09:47:23,515 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002053.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:23,517 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002054.SZ' '19901201' '20180920'] [12/36]
+2018-09-14 09:47:24,288 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002724.SZ' '19901201' '20180920']] 影响71行
+2018-09-14 09:47:24,628 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002763.SZ' '19901201' '20180920']] 影响1行
+2018-09-14 09:47:24,811 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002054.SZ' '19901201' '20180920']] 影响45行
+2018-09-14 09:47:25,094 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002724.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:25,096 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002725.SZ' '19901201' '20180920'] [14/36]
+2018-09-14 09:47:25,454 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002763.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:25,455 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002765.SZ' '19901201' '20180920'] [15/36]
+2018-09-14 09:47:25,758 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002054.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:25,758 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002055.SZ' '19901201' '20180920'] [13/36]
+2018-09-14 09:47:26,210 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002725.SZ' '19901201' '20180920']] 影响132行
+2018-09-14 09:47:26,444 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002055.SZ' '19901201' '20180920']] 影响121行
+2018-09-14 09:47:26,820 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002765.SZ' '19901201' '20180920']] 影响41行
+2018-09-14 09:47:27,496 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002725.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:27,498 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002726.SZ' '19901201' '20180920'] [15/36]
+2018-09-14 09:47:27,729 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002765.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:27,730 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002055.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:27,731 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002766.SZ' '19901201' '20180920'] [16/36]
+2018-09-14 09:47:27,733 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002056.SZ' '19901201' '20180920'] [14/36]
+2018-09-14 09:47:28,796 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002726.SZ' '19901201' '20180920']] 影响75行
+2018-09-14 09:47:28,972 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002056.SZ' '19901201' '20180920']] 影响33行
+2018-09-14 09:47:29,112 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002766.SZ' '19901201' '20180920']] 影响142行
+2018-09-14 09:47:29,415 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002726.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:29,416 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002727.SZ' '19901201' '20180920'] [16/36]
+2018-09-14 09:47:29,971 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002766.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:29,971 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002056.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:29,972 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002767.SZ' '19901201' '20180920'] [17/36]
+2018-09-14 09:47:29,973 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002057.SZ' '19901201' '20180920'] [15/36]
+2018-09-14 09:47:31,022 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002727.SZ' '19901201' '20180920']] 影响98行
+2018-09-14 09:47:31,235 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002767.SZ' '19901201' '20180920']] 影响1行
+2018-09-14 09:47:31,496 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002057.SZ' '19901201' '20180920']] 影响275行
+2018-09-14 09:47:31,847 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002727.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:31,848 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002728.SZ' '19901201' '20180920'] [17/36]
+2018-09-14 09:47:32,372 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002767.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:32,373 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002768.SZ' '19901201' '20180920'] [18/36]
+2018-09-14 09:47:32,669 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002057.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:32,670 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002058.SZ' '19901201' '20180920'] [16/36]
+2018-09-14 09:47:33,188 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002728.SZ' '19901201' '20180920']] 影响132行
+2018-09-14 09:47:33,447 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002768.SZ' '19901201' '20180920']] 影响5行
+2018-09-14 09:47:33,804 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002728.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:33,804 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002729.SZ' '19901201' '20180920'] [18/36]
+2018-09-14 09:47:34,096 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002768.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:34,097 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002769.SZ' '19901201' '20180920'] [19/36]
+2018-09-14 09:47:34,371 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002729.SZ' '19901201' '20180920']] 影响98行
+2018-09-14 09:47:34,577 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002058.SZ' '19901201' '20180920']] 影响54行
+2018-09-14 09:47:35,154 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002769.SZ' '19901201' '20180920']] 影响7行
+2018-09-14 09:47:35,446 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002729.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:35,446 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002730.SZ' '19901201' '20180920'] [19/36]
+2018-09-14 09:47:35,673 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002058.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:35,673 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002769.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:35,681 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002059.SZ' '19901201' '20180920'] [17/36]
+2018-09-14 09:47:35,681 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002770.SZ' '19901201' '20180920'] [20/36]
+2018-09-14 09:47:36,104 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002730.SZ' '19901201' '20180920']] 影响133行
+2018-09-14 09:47:36,730 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002730.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:36,731 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002731.SZ' '19901201' '20180920'] [20/36]
+2018-09-14 09:47:36,922 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002770.SZ' '19901201' '20180920']] 影响114行
+2018-09-14 09:47:37,138 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002059.SZ' '19901201' '20180920']] 影响366行
+2018-09-14 09:47:37,600 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002731.SZ' '19901201' '20180920']] 影响4行
+2018-09-14 09:47:37,601 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002770.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:37,603 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002771.SZ' '19901201' '20180920'] [21/36]
+2018-09-14 09:47:37,914 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002059.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:37,915 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002060.SZ' '19901201' '20180920'] [18/36]
+2018-09-14 09:47:38,072 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002731.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:38,074 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002732.SZ' '19901201' '20180920'] [21/36]
+2018-09-14 09:47:38,905 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002732.SZ' '19901201' '20180920']] 影响12行
+2018-09-14 09:47:39,005 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002771.SZ' '19901201' '20180920']] 影响49行
+2018-09-14 09:47:39,528 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002060.SZ' '19901201' '20180920']] 影响62行
+2018-09-14 09:47:39,531 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002732.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:39,531 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002771.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:39,534 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002733.SZ' '19901201' '20180920'] [22/36]
+2018-09-14 09:47:39,535 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002772.SZ' '19901201' '20180920'] [22/36]
+2018-09-14 09:47:40,212 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002733.SZ' '19901201' '20180920']] 影响17行
+2018-09-14 09:47:40,230 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002772.SZ' '19901201' '20180920']] 影响11行
+2018-09-14 09:47:40,440 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002060.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:40,442 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002061.SZ' '19901201' '20180920'] [19/36]
+2018-09-14 09:47:41,093 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002733.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:41,094 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002734.SZ' '19901201' '20180920'] [23/36]
+2018-09-14 09:47:41,207 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002772.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:41,208 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002773.SZ' '19901201' '20180920'] [23/36]
+2018-09-14 09:47:41,847 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002061.SZ' '19901201' '20180920']] 影响268行
+2018-09-14 09:47:41,972 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002734.SZ' '19901201' '20180920']] 影响11行
+2018-09-14 09:47:42,038 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002773.SZ' '19901201' '20180920']] 影响1行
+2018-09-14 09:47:42,125 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002061.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:42,126 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002062.SZ' '19901201' '20180920'] [20/36]
+2018-09-14 09:47:42,278 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002734.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:42,280 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002735.SZ' '19901201' '20180920'] [24/36]
+2018-09-14 09:47:42,599 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002773.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:42,600 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002774.SZ' '19901201' '20180920'] [24/36]
+2018-09-14 09:47:43,114 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002062.SZ' '19901201' '20180920']] 影响67行
+2018-09-14 09:47:43,197 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002774.SZ' '19901201' '20180920']] 影响4行
+2018-09-14 09:47:43,505 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002735.SZ' '19901201' '20180920']] 影响217行
+2018-09-14 09:47:43,916 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002774.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:43,917 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002062.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:43,918 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002775.SZ' '19901201' '20180920'] [25/36]
+2018-09-14 09:47:43,921 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002063.SZ' '19901201' '20180920'] [21/36]
+2018-09-14 09:47:44,317 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002735.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:44,317 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002736.SZ' '19901201' '20180920'] [25/36]
+2018-09-14 09:47:45,140 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002063.SZ' '19901201' '20180920']] 影响116行
+2018-09-14 09:47:45,358 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002775.SZ' '19901201' '20180920']] 影响7行
+2018-09-14 09:47:45,806 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002063.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:45,807 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002064.SZ' '19901201' '20180920'] [22/36]
+2018-09-14 09:47:45,830 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002775.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:45,830 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002736.SZ' '19901201' '20180920']] 影响8行
+2018-09-14 09:47:45,831 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002776.SZ' '19901201' '20180920'] [26/36]
+2018-09-14 09:47:46,080 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002736.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:46,081 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002737.SZ' '19901201' '20180920'] [26/36]
+2018-09-14 09:47:46,715 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002064.SZ' '19901201' '20180920']] 影响17行
+2018-09-14 09:47:46,764 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002737.SZ' '19901201' '20180920']] 影响1行
+2018-09-14 09:47:46,764 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002776.SZ' '19901201' '20180920']] 影响13行
+2018-09-14 09:47:47,032 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002064.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:47,034 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002065.SZ' '19901201' '20180920'] [23/36]
+2018-09-14 09:47:47,074 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002737.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:47,074 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002776.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:47,076 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002738.SZ' '19901201' '20180920'] [27/36]
+2018-09-14 09:47:47,078 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002777.SZ' '19901201' '20180920'] [27/36]
+2018-09-14 09:47:47,964 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002738.SZ' '19901201' '20180920']] 影响129行
+2018-09-14 09:47:48,363 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002065.SZ' '19901201' '20180920']] 影响385行
+2018-09-14 09:47:48,765 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002777.SZ' '19901201' '20180920']] 影响11行
+2018-09-14 09:47:48,765 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002738.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:48,766 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002739.SZ' '19901201' '20180920'] [28/36]
+2018-09-14 09:47:49,050 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002065.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:49,051 - daily_crawler_mysql.py[line:68] - INFO: Thread-22抓取suspend['002686.SZ' '19901201' '20180920'] [24/36]
+2018-09-14 09:47:49,142 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002777.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:49,143 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002778.SZ' '19901201' '20180920'] [28/36]
+2018-09-14 09:47:50,460 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002778.SZ' '19901201' '20180920']] 影响62行
+2018-09-14 09:47:50,460 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002739.SZ' '19901201' '20180920']] 影响416行
+2018-09-14 09:47:51,650 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002739.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:51,652 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002740.SZ' '19901201' '20180920'] [29/36]
+2018-09-14 09:47:51,750 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002778.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:51,752 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002779.SZ' '19901201' '20180920'] [29/36]
+2018-09-14 09:47:52,982 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002740.SZ' '19901201' '20180920']] 影响171行
+2018-09-14 09:47:53,044 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002779.SZ' '19901201' '20180920']] 影响44行
+2018-09-14 09:47:53,406 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002740.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:53,407 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002741.SZ' '19901201' '20180920'] [30/36]
+2018-09-14 09:47:53,757 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002779.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:53,759 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002780.SZ' '19901201' '20180920'] [30/36]
+2018-09-14 09:47:54,809 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002780.SZ' '19901201' '20180920']] 影响10行
+2018-09-14 09:47:54,924 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002741.SZ' '19901201' '20180920']] 影响45行
+2018-09-14 09:47:55,127 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002780.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:55,128 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002781.SZ' '19901201' '20180920'] [31/36]
+2018-09-14 09:47:55,478 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002741.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:55,479 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002742.SZ' '19901201' '20180920'] [31/36]
+2018-09-14 09:47:56,083 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002781.SZ' '19901201' '20180920']] 影响106行
+2018-09-14 09:47:56,268 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002742.SZ' '19901201' '20180920']] 影响85行
+2018-09-14 09:47:57,076 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002781.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:57,077 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002782.SZ' '19901201' '20180920'] [32/36]
+2018-09-14 09:47:57,513 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002742.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:57,514 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002743.SZ' '19901201' '20180920'] [32/36]
+2018-09-14 09:47:58,269 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002782.SZ' '19901201' '20180920']] 影响1行
+2018-09-14 09:47:58,900 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002743.SZ' '19901201' '20180920']] 影响23行
+2018-09-14 09:47:59,141 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002782.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:59,143 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002783.SZ' '19901201' '20180920'] [33/36]
+2018-09-14 09:47:59,337 - mysql_init.py[line:89] - INFO: 数据为空
+2018-09-14 09:47:59,338 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002785.SZ' '19901201' '20180920'] [34/36]
+2018-09-14 09:47:59,410 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002743.SZ' '19901201' '20180920']]状态
+2018-09-14 09:47:59,411 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002745.SZ' '19901201' '20180920'] [33/36]
+2018-09-14 09:48:00,083 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002785.SZ' '19901201' '20180920']] 影响2行
+2018-09-14 09:48:00,403 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002745.SZ' '19901201' '20180920']] 影响213行
+2018-09-14 09:48:00,786 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002785.SZ' '19901201' '20180920']]状态
+2018-09-14 09:48:00,787 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002786.SZ' '19901201' '20180920'] [35/36]
+2018-09-14 09:48:01,410 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002745.SZ' '19901201' '20180920']]状态
+2018-09-14 09:48:01,411 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002746.SZ' '19901201' '20180920'] [34/36]
+2018-09-14 09:48:02,659 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002786.SZ' '19901201' '20180920']] 影响1行
+2018-09-14 09:48:03,205 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002746.SZ' '19901201' '20180920']] 影响13行
+2018-09-14 09:48:03,694 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002786.SZ' '19901201' '20180920']]状态
+2018-09-14 09:48:03,696 - daily_crawler_mysql.py[line:68] - INFO: Thread-24抓取suspend['002787.SZ' '19901201' '20180920'] [36/36]
+2018-09-14 09:48:03,959 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002746.SZ' '19901201' '20180920']]状态
+2018-09-14 09:48:03,960 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002747.SZ' '19901201' '20180920'] [35/36]
+2018-09-14 09:48:04,959 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002787.SZ' '19901201' '20180920']] 影响136行
+2018-09-14 09:48:05,051 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002747.SZ' '19901201' '20180920']] 影响50行
+2018-09-14 09:48:05,627 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002787.SZ' '19901201' '20180920']]状态
+2018-09-14 09:48:05,985 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002747.SZ' '19901201' '20180920']]状态
+2018-09-14 09:48:05,986 - daily_crawler_mysql.py[line:68] - INFO: Thread-23抓取suspend['002748.SZ' '19901201' '20180920'] [36/36]
+2018-09-14 09:48:07,500 - mysql_init.py[line:118] - INFO: 执行任务suspend[['002748.SZ' '19901201' '20180920']] 影响13行
+2018-09-14 09:48:08,465 - mysql_init.py[line:40] - INFO: 更新执行任务suspend[['002748.SZ' '19901201' '20180920']]状态

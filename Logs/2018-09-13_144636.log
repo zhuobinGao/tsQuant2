@@ -1,0 +1,67 @@
+2018-09-13 14:46:36,478 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:46:41,481 - mysql_init.py[line:115] - INFO: 设置指数基础任务 影响8346行
+2018-09-13 14:46:41,628 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000001.SH' '19901201' '20180920'] [1/8346]
+2018-09-13 14:46:47,457 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:46:47,742 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:46:47,743 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000002.SH' '19901201' '20180920'] [2/8346]
+2018-09-13 14:46:50,607 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:46:51,093 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:46:51,094 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000003.SH' '19901201' '20180920'] [3/8346]
+2018-09-13 14:46:53,473 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:46:53,684 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:46:53,684 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000004.SH' '19901201' '20180920'] [4/8346]
+2018-09-13 14:46:57,659 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:46:57,834 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:46:57,835 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000005.SH' '19901201' '20180920'] [5/8346]
+2018-09-13 14:47:00,028 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:00,279 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:00,280 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000006.SH' '19901201' '20180920'] [6/8346]
+2018-09-13 14:47:03,118 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:03,371 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:03,372 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000007.SH' '19901201' '20180920'] [7/8346]
+2018-09-13 14:47:04,977 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:05,160 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:05,162 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000008.SH' '19901201' '20180920'] [8/8346]
+2018-09-13 14:47:07,012 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:07,403 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:07,405 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000009.SH' '19901201' '20180920'] [9/8346]
+2018-09-13 14:47:09,861 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:10,038 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:10,039 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000010.SH' '19901201' '20180920'] [10/8346]
+2018-09-13 14:47:11,979 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:12,249 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:12,250 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000011.SH' '19901201' '20180920'] [11/8346]
+2018-09-13 14:47:14,203 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:14,396 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:14,397 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000012.SH' '19901201' '20180920'] [12/8346]
+2018-09-13 14:47:16,664 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:16,849 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:16,850 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000013.SH' '19901201' '20180920'] [13/8346]
+2018-09-13 14:47:18,896 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:19,107 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:19,109 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000015.SH' '19901201' '20180920'] [14/8346]
+2018-09-13 14:47:20,614 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:20,865 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:20,866 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000016.SH' '19901201' '20180920'] [15/8346]
+2018-09-13 14:47:23,039 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:23,300 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:23,301 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000017.SH' '19901201' '20180920'] [16/8346]
+2018-09-13 14:47:25,147 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:25,352 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:25,352 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000018.SH' '19901201' '20180920'] [17/8346]
+2018-09-13 14:47:27,395 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:27,650 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:27,652 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000019.SH' '19901201' '20180920'] [18/8346]
+2018-09-13 14:47:29,282 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:29,540 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:29,540 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000020.SH' '19901201' '20180920'] [19/8346]
+2018-09-13 14:47:31,724 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:31,927 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:31,929 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000021.SH' '19901201' '20180920'] [20/8346]
+2018-09-13 14:47:33,444 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:33,849 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:33,850 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000022.SH' '19901201' '20180920'] [21/8346]
+2018-09-13 14:47:36,308 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行
+2018-09-13 14:47:36,627 - mysql_init.py[line:37] - INFO: 
+2018-09-13 14:47:36,628 - index_crawler_mysql.py[line:56] - INFO: Thread-1抓取index_daily['000023.SH' '19901201' '20180920'] [22/8346]
+2018-09-13 14:47:38,825 - mysql_init.py[line:115] - INFO: 执行任务index_daily 影响1800行

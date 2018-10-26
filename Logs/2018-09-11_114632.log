@@ -1,0 +1,15 @@
+2018-09-11 11:46:33,365 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 11:46:33,437 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 11:46:33,519 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[20180904-20180911]3542
+2018-09-11 11:46:33,617 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000001.SZ' '20180904' '20180911'] [1/7081]
+2018-09-11 11:46:33,704 - finance_crawler_mysql.py[line:62] - INFO: Thread-2抓取balancesheet['000001.SZ' '20180904' '20180911'] [1/7080]
+2018-09-11 11:46:33,780 - finance_crawler_mysql.py[line:62] - INFO: Thread-3抓取cashflow['000001.SZ' '19901201' '20180920'] [1/7084]
+2018-09-11 11:46:33,859 - finance_crawler_mysql.py[line:62] - INFO: Thread-4抓取forecast['000001.SZ' '19901201' '20180920'] [1/7084]
+2018-09-11 11:46:33,874 - mysql_init.py[line:85] - INFO: 数据为空
+2018-09-11 11:46:33,955 - finance_crawler_mysql.py[line:62] - INFO: Thread-5抓取express['000001.SZ' '19901201' '20180920'] [1/7083]
+2018-09-11 11:46:33,966 - mysql_init.py[line:85] - INFO: 数据为空
+2018-09-11 11:46:34,061 - finance_crawler_mysql.py[line:62] - INFO: Thread-6抓取fina_indicator['000001.SZ' '19901201' '20180920'] [1/7084]
+2018-09-11 11:46:34,188 - mysql_init.py[line:85] - INFO: 数据为空
+2018-09-11 11:46:34,530 - mysql_init.py[line:116] - INFO: 执行任务cashflow 影响32行
+2018-09-11 11:46:34,781 - finance_crawler_mysql.py[line:62] - INFO: Thread-3抓取cashflow['000001.SZ' '20180904' '20180911'] [2/7084]
+2018-09-11 11:46:35,524 - mysql_init.py[line:85] - INFO: 数据为空

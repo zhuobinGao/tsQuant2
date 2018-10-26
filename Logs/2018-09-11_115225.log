@@ -1,0 +1,80 @@
+2018-09-11 11:52:25,702 - mysql_init.py[line:37] - INFO: 
+2018-09-11 11:52:25,703 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 11:52:25,788 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000001.SZ' '20180904' '20180911'] [1/7081]
+2018-09-11 11:52:26,040 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:26,041 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000002.SZ' '19901201' '20180920'] [2/7081]
+2018-09-11 11:52:26,768 - mysql_init.py[line:117] - INFO: 执行任务income 影响60行
+2018-09-11 11:52:27,043 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000002.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:27,124 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000002.SZ' '20180904' '20180911'] [3/7081]
+2018-09-11 11:52:28,429 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:28,430 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000004.SZ' '19901201' '20180920'] [4/7081]
+2018-09-11 11:52:29,275 - mysql_init.py[line:117] - INFO: 执行任务income 影响42行
+2018-09-11 11:52:29,591 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000004.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:29,593 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000004.SZ' '20180904' '20180911'] [5/7081]
+2018-09-11 11:52:29,961 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:29,961 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000005.SZ' '19901201' '20180920'] [6/7081]
+2018-09-11 11:52:30,637 - mysql_init.py[line:117] - INFO: 执行任务income 影响48行
+2018-09-11 11:52:30,878 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000005.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:30,880 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000005.SZ' '20180904' '20180911'] [7/7081]
+2018-09-11 11:52:31,057 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:31,058 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000006.SZ' '19901201' '20180920'] [8/7081]
+2018-09-11 11:52:31,717 - mysql_init.py[line:117] - INFO: 执行任务income 影响39行
+2018-09-11 11:52:31,893 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000006.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:31,893 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000006.SZ' '20180904' '20180911'] [9/7081]
+2018-09-11 11:52:32,296 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:32,296 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000007.SZ' '19901201' '20180920'] [10/7081]
+2018-09-11 11:52:32,792 - mysql_init.py[line:117] - INFO: 执行任务income 影响46行
+2018-09-11 11:52:32,955 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000007.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:32,956 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000007.SZ' '20180904' '20180911'] [11/7081]
+2018-09-11 11:52:33,262 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:33,263 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000008.SZ' '19901201' '20180920'] [12/7081]
+2018-09-11 11:52:34,859 - mysql_init.py[line:117] - INFO: 执行任务income 影响52行
+2018-09-11 11:52:35,122 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000008.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:35,123 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000008.SZ' '20180904' '20180911'] [13/7081]
+2018-09-11 11:52:35,376 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:35,377 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000009.SZ' '19901201' '20180920'] [14/7081]
+2018-09-11 11:52:35,897 - mysql_init.py[line:117] - INFO: 执行任务income 影响55行
+2018-09-11 11:52:36,064 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000009.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:36,064 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000009.SZ' '20180904' '20180911'] [15/7081]
+2018-09-11 11:52:36,306 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:36,306 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000010.SZ' '19901201' '20180920'] [16/7081]
+2018-09-11 11:52:37,401 - mysql_init.py[line:117] - INFO: 执行任务income 影响52行
+2018-09-11 11:52:37,660 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000010.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:37,662 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000010.SZ' '20180904' '20180911'] [17/7081]
+2018-09-11 11:52:37,872 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:37,872 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000011.SZ' '19901201' '20180920'] [18/7081]
+2018-09-11 11:52:38,876 - mysql_init.py[line:117] - INFO: 执行任务income 影响51行
+2018-09-11 11:52:39,039 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000011.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:39,040 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000011.SZ' '20180904' '20180911'] [19/7081]
+2018-09-11 11:52:39,848 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:39,848 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000012.SZ' '19901201' '20180920'] [20/7081]
+2018-09-11 11:52:40,562 - mysql_init.py[line:117] - INFO: 执行任务income 影响47行
+2018-09-11 11:52:40,803 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000012.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:40,804 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000012.SZ' '20180904' '20180911'] [21/7081]
+2018-09-11 11:52:41,024 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:41,025 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000014.SZ' '19901201' '20180920'] [22/7081]
+2018-09-11 11:52:41,686 - mysql_init.py[line:117] - INFO: 执行任务income 影响50行
+2018-09-11 11:52:41,910 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000014.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:41,911 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000014.SZ' '20180904' '20180911'] [23/7081]
+2018-09-11 11:52:42,136 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:42,136 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000016.SZ' '19901201' '20180920'] [24/7081]
+2018-09-11 11:52:42,714 - mysql_init.py[line:117] - INFO: 执行任务income 影响55行
+2018-09-11 11:52:42,950 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000016.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:42,951 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000016.SZ' '20180904' '20180911'] [25/7081]
+2018-09-11 11:52:43,269 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:43,270 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000017.SZ' '19901201' '20180920'] [26/7081]
+2018-09-11 11:52:44,002 - mysql_init.py[line:117] - INFO: 执行任务income 影响53行
+2018-09-11 11:52:44,175 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000017.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:44,176 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000017.SZ' '20180904' '20180911'] [27/7081]
+2018-09-11 11:52:44,610 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:44,611 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000018.SZ' '19901201' '20180920'] [28/7081]
+2018-09-11 11:52:46,247 - mysql_init.py[line:117] - INFO: 执行任务income 影响52行
+2018-09-11 11:52:46,477 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000018.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:46,478 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000018.SZ' '20180904' '20180911'] [29/7081]
+2018-09-11 11:52:47,093 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:47,093 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000019.SZ' '19901201' '20180920'] [30/7081]
+2018-09-11 11:52:48,793 - mysql_init.py[line:117] - INFO: 执行任务income 影响49行
+2018-09-11 11:52:49,086 - mysql_init.py[line:37] - INFO: 更新执行任务income[['000019.SZ' '19901201' '20180920']]状态
+2018-09-11 11:52:49,087 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000019.SZ' '20180904' '20180911'] [31/7081]
+2018-09-11 11:52:49,538 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:52:49,539 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取income['000020.SZ' '19901201' '20180920'] [32/7081]

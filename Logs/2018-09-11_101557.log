@@ -1,0 +1,2 @@
+2018-09-11 10:15:58,056 - daily_crawler_mysql.py[line:19] - INFO: 已设置初始任务
+2018-09-11 10:15:58,103 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取daily_basic['000004.SZ' '19901201' '20180920'] [1/3532]

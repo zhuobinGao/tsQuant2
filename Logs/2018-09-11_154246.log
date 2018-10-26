@@ -1,0 +1,7 @@
+2018-09-11 15:42:46,696 - mysql_init.py[line:37] - INFO: 
+2018-09-11 15:42:46,697 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 15:42:46,733 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000001.SZ' '19901201' '20180920'] [1/3542]
+2018-09-11 15:42:46,892 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:46,892 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000002.SZ' '19901201' '20180920'] [2/3542]
+2018-09-11 15:42:47,318 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:42:47,319 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_mainbz['000004.SZ' '19901201' '20180920'] [3/3542]

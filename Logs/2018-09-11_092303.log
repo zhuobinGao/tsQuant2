@@ -1,0 +1,234 @@
+2018-09-11 09:23:03,552 - daily_crawler_mysql.py[line:19] - INFO: 已设置初始任务
+2018-09-11 09:23:03,597 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000001.SZ' '19901201' '20180920'] [1/885]
+2018-09-11 09:23:03,598 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002423.SZ' '19901201' '20180920'] [1/885]
+2018-09-11 09:23:03,599 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300398.SZ' '19901201' '20180920'] [1/885]
+2018-09-11 09:23:03,601 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600665.SH' '19901201' '20180920'] [1/885]
+2018-09-11 09:23:05,167 - mysql_init.py[line:109] - INFO:  影响962行
+2018-09-11 09:23:05,279 - mysql_init.py[line:109] - INFO:  影响2013行
+2018-09-11 09:23:05,672 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300400.SZ' '19901201' '20180920'] [2/885]
+2018-09-11 09:23:05,705 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002425.SZ' '19901201' '20180920'] [2/885]
+2018-09-11 09:23:06,198 - mysql_init.py[line:109] - INFO:  影响6132行
+2018-09-11 09:23:06,677 - mysql_init.py[line:109] - INFO:  影响6696行
+2018-09-11 09:23:07,142 - mysql_init.py[line:109] - INFO:  影响961行
+2018-09-11 09:23:07,143 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600666.SH' '19901201' '20180920'] [2/885]
+2018-09-11 09:23:07,666 - mysql_init.py[line:109] - INFO:  影响2010行
+2018-09-11 09:23:08,047 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000002.SZ' '19901201' '20180920'] [2/885]
+2018-09-11 09:23:08,053 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300401.SZ' '19901201' '20180920'] [3/885]
+2018-09-11 09:23:08,254 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002426.SZ' '19901201' '20180920'] [3/885]
+2018-09-11 09:23:08,870 - mysql_init.py[line:109] - INFO:  影响6131行
+2018-09-11 09:23:09,137 - mysql_init.py[line:109] - INFO:  影响962行
+2018-09-11 09:23:09,236 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600667.SH' '19901201' '20180920'] [3/885]
+2018-09-11 09:23:09,953 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300402.SZ' '19901201' '20180920'] [4/885]
+2018-09-11 09:23:10,076 - mysql_init.py[line:109] - INFO:  影响6735行
+2018-09-11 09:23:10,077 - mysql_init.py[line:109] - INFO:  影响2010行
+2018-09-11 09:23:10,246 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000004.SZ' '19901201' '20180920'] [3/885]
+2018-09-11 09:23:10,285 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002427.SZ' '19901201' '20180920'] [4/885]
+2018-09-11 09:23:10,757 - mysql_init.py[line:109] - INFO:  影响961行
+2018-09-11 09:23:11,106 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300403.SZ' '19901201' '20180920'] [5/885]
+2018-09-11 09:23:11,325 - mysql_init.py[line:109] - INFO:  影响6119行
+2018-09-11 09:23:11,776 - mysql_init.py[line:109] - INFO:  影响2010行
+2018-09-11 09:23:11,948 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600668.SH' '19901201' '20180920'] [4/885]
+2018-09-11 09:23:12,619 - mysql_init.py[line:109] - INFO:  影响947行
+2018-09-11 09:23:12,621 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002428.SZ' '19901201' '20180920'] [5/885]
+2018-09-11 09:23:13,099 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300404.SZ' '19901201' '20180920'] [6/885]
+2018-09-11 09:23:14,417 - mysql_init.py[line:109] - INFO:  影响6744行
+2018-09-11 09:23:14,610 - mysql_init.py[line:109] - INFO:  影响829行
+2018-09-11 09:23:14,610 - mysql_init.py[line:109] - INFO:  影响6119行
+2018-09-11 09:23:14,612 - mysql_init.py[line:109] - INFO:  影响2010行
+2018-09-11 09:23:14,889 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000005.SZ' '19901201' '20180920'] [4/885]
+2018-09-11 09:23:15,069 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600671.SH' '19901201' '20180920'] [5/885]
+2018-09-11 09:23:15,072 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300405.SZ' '19901201' '20180920'] [7/885]
+2018-09-11 09:23:15,073 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002429.SZ' '19901201' '20180920'] [6/885]
+2018-09-11 09:23:19,590 - mysql_init.py[line:109] - INFO:  影响947行
+2018-09-11 09:23:19,937 - mysql_init.py[line:109] - INFO:  影响2008行
+2018-09-11 09:23:19,938 - mysql_init.py[line:109] - INFO:  影响6640行
+2018-09-11 09:23:19,938 - mysql_init.py[line:109] - INFO:  影响6101行
+2018-09-11 09:23:20,209 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300406.SZ' '19901201' '20180920'] [8/885]
+2018-09-11 09:23:20,722 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000006.SZ' '19901201' '20180920'] [5/885]
+2018-09-11 09:23:20,828 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600673.SH' '19901201' '20180920'] [6/885]
+2018-09-11 09:23:20,829 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002430.SZ' '19901201' '20180920'] [7/885]
+2018-09-11 09:23:21,237 - mysql_init.py[line:109] - INFO:  影响947行
+2018-09-11 09:23:21,715 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300407.SZ' '19901201' '20180920'] [9/885]
+2018-09-11 09:23:24,247 - mysql_init.py[line:109] - INFO:  影响923行
+2018-09-11 09:23:24,960 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300408.SZ' '19901201' '20180920'] [10/885]
+2018-09-11 09:23:25,652 - mysql_init.py[line:109] - INFO:  影响2008行
+2018-09-11 09:23:27,046 - mysql_init.py[line:109] - INFO:  影响6428行
+2018-09-11 09:23:27,047 - mysql_init.py[line:109] - INFO:  影响6082行
+2018-09-11 09:23:27,297 - mysql_init.py[line:109] - INFO:  影响923行
+2018-09-11 09:23:27,299 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002431.SZ' '19901201' '20180920'] [8/885]
+2018-09-11 09:23:27,843 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600674.SH' '19901201' '20180920'] [7/885]
+2018-09-11 09:23:27,878 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300409.SZ' '19901201' '20180920'] [11/885]
+2018-09-11 09:23:27,884 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000007.SZ' '19901201' '20180920'] [6/885]
+2018-09-11 09:23:28,350 - mysql_init.py[line:109] - INFO:  影响2008行
+2018-09-11 09:23:28,787 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002432.SZ' '19901201' '20180920'] [9/885]
+2018-09-11 09:23:28,927 - mysql_init.py[line:109] - INFO:  影响923行
+2018-09-11 09:23:29,557 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300410.SZ' '19901201' '20180920'] [12/885]
+2018-09-11 09:23:30,848 - mysql_init.py[line:109] - INFO:  影响903行
+2018-09-11 09:23:31,124 - mysql_init.py[line:109] - INFO:  影响2008行
+2018-09-11 09:23:31,124 - mysql_init.py[line:109] - INFO:  影响6439行
+2018-09-11 09:23:31,125 - mysql_init.py[line:109] - INFO:  影响6077行
+2018-09-11 09:23:31,481 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300411.SZ' '19901201' '20180920'] [13/885]
+2018-09-11 09:23:31,618 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600675.SH' '19901201' '20180920'] [8/885]
+2018-09-11 09:23:32,099 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000008.SZ' '19901201' '20180920'] [7/885]
+2018-09-11 09:23:32,100 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002433.SZ' '19901201' '20180920'] [10/885]
+2018-09-11 09:23:32,278 - mysql_init.py[line:109] - INFO:  影响903行
+2018-09-11 09:23:33,108 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300412.SZ' '19901201' '20180920'] [14/885]
+2018-09-11 09:23:34,023 - mysql_init.py[line:109] - INFO:  影响2005行
+2018-09-11 09:23:34,441 - mysql_init.py[line:109] - INFO:  影响903行
+2018-09-11 09:23:34,697 - mysql_init.py[line:109] - INFO:  影响6077行
+2018-09-11 09:23:34,698 - mysql_init.py[line:109] - INFO:  影响6421行
+2018-09-11 09:23:34,698 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002434.SZ' '19901201' '20180920'] [11/885]
+2018-09-11 09:23:34,914 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300413.SZ' '19901201' '20180920'] [15/885]
+2018-09-11 09:23:35,107 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000009.SZ' '19901201' '20180920'] [8/885]
+2018-09-11 09:23:35,128 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600676.SH' '19901201' '20180920'] [9/885]
+2018-09-11 09:23:35,606 - mysql_init.py[line:109] - INFO:  影响2005行
+2018-09-11 09:23:35,836 - mysql_init.py[line:109] - INFO:  影响890行
+2018-09-11 09:23:35,882 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002435.SZ' '19901201' '20180920'] [12/885]
+2018-09-11 09:23:36,095 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300414.SZ' '19901201' '20180920'] [16/885]
+2018-09-11 09:23:38,535 - mysql_init.py[line:109] - INFO:  影响6075行
+2018-09-11 09:23:38,840 - mysql_init.py[line:109] - INFO:  影响817行
+2018-09-11 09:23:38,840 - mysql_init.py[line:109] - INFO:  影响6638行
+2018-09-11 09:23:38,841 - mysql_init.py[line:109] - INFO:  影响2005行
+2018-09-11 09:23:39,041 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600677.SH' '19901201' '20180920'] [10/885]
+2018-09-11 09:23:39,376 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300415.SZ' '19901201' '20180920'] [17/885]
+2018-09-11 09:23:39,377 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002436.SZ' '19901201' '20180920'] [13/885]
+2018-09-11 09:23:39,377 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000010.SZ' '19901201' '20180920'] [9/885]
+2018-09-11 09:23:44,736 - mysql_init.py[line:109] - INFO:  影响2005行
+2018-09-11 09:23:44,941 - mysql_init.py[line:109] - INFO:  影响5550行
+2018-09-11 09:23:44,942 - mysql_init.py[line:109] - INFO:  影响888行
+2018-09-11 09:23:45,184 - mysql_init.py[line:109] - INFO:  影响6075行
+2018-09-11 09:23:45,547 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300416.SZ' '19901201' '20180920'] [18/885]
+2018-09-11 09:23:45,547 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002437.SZ' '19901201' '20180920'] [14/885]
+2018-09-11 09:23:45,798 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600678.SH' '19901201' '20180920'] [11/885]
+2018-09-11 09:23:45,882 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000011.SZ' '19901201' '20180920'] [10/885]
+2018-09-11 09:23:46,765 - mysql_init.py[line:109] - INFO:  影响889行
+2018-09-11 09:23:46,834 - mysql_init.py[line:109] - INFO:  影响2002行
+2018-09-11 09:23:47,573 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300417.SZ' '19901201' '20180920'] [19/885]
+2018-09-11 09:23:47,695 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002438.SZ' '19901201' '20180920'] [15/885]
+2018-09-11 09:23:48,683 - mysql_init.py[line:109] - INFO:  影响888行
+2018-09-11 09:23:48,883 - mysql_init.py[line:109] - INFO:  影响6068行
+2018-09-11 09:23:49,176 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300418.SZ' '19901201' '20180920'] [20/885]
+2018-09-11 09:23:49,707 - mysql_init.py[line:109] - INFO:  影响6448行
+2018-09-11 09:23:49,707 - mysql_init.py[line:109] - INFO:  影响2002行
+2018-09-11 09:23:49,891 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600679.SH' '19901201' '20180920'] [12/885]
+2018-09-11 09:23:50,603 - mysql_init.py[line:109] - INFO:  影响890行
+2018-09-11 09:23:50,770 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002439.SZ' '19901201' '20180920'] [16/885]
+2018-09-11 09:23:50,775 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000012.SZ' '19901201' '20180920'] [11/885]
+2018-09-11 09:23:51,150 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300419.SZ' '19901201' '20180920'] [21/885]
+2018-09-11 09:23:51,605 - mysql_init.py[line:109] - INFO:  影响6068行
+2018-09-11 09:23:52,555 - mysql_init.py[line:109] - INFO:  影响2002行
+2018-09-11 09:23:52,751 - mysql_init.py[line:109] - INFO:  影响889行
+2018-09-11 09:23:52,753 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600680.SH' '19901201' '20180920'] [13/885]
+2018-09-11 09:23:53,524 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002440.SZ' '19901201' '20180920'] [17/885]
+2018-09-11 09:23:53,852 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300420.SZ' '19901201' '20180920'] [22/885]
+2018-09-11 09:23:54,277 - mysql_init.py[line:109] - INFO:  影响6469行
+2018-09-11 09:23:54,797 - mysql_init.py[line:109] - INFO:  影响6006行
+2018-09-11 09:23:55,298 - mysql_init.py[line:109] - INFO:  影响871行
+2018-09-11 09:23:55,298 - mysql_init.py[line:109] - INFO:  影响1993行
+2018-09-11 09:23:55,299 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000014.SZ' '19901201' '20180920'] [12/885]
+2018-09-11 09:23:55,669 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600681.SH' '19901201' '20180920'] [14/885]
+2018-09-11 09:23:56,131 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300421.SZ' '19901201' '20180920'] [23/885]
+2018-09-11 09:23:56,498 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002441.SZ' '19901201' '20180920'] [18/885]
+2018-09-11 09:23:58,707 - mysql_init.py[line:109] - INFO:  影响871行
+2018-09-11 09:23:59,110 - mysql_init.py[line:109] - INFO:  影响1993行
+2018-09-11 09:23:59,110 - mysql_init.py[line:109] - INFO:  影响5252行
+2018-09-11 09:23:59,110 - mysql_init.py[line:109] - INFO:  影响6403行
+2018-09-11 09:23:59,301 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300422.SZ' '19901201' '20180920'] [24/885]
+2018-09-11 09:23:59,565 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002442.SZ' '19901201' '20180920'] [19/885]
+2018-09-11 09:23:59,566 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000016.SZ' '19901201' '20180920'] [13/885]
+2018-09-11 09:23:59,567 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600682.SH' '19901201' '20180920'] [15/885]
+2018-09-11 09:24:00,109 - mysql_init.py[line:109] - INFO:  影响871行
+2018-09-11 09:24:00,526 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300423.SZ' '19901201' '20180920'] [25/885]
+2018-09-11 09:24:01,987 - mysql_init.py[line:109] - INFO:  影响1993行
+2018-09-11 09:24:02,065 - mysql_init.py[line:109] - INFO:  影响871行
+2018-09-11 09:24:03,087 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002443.SZ' '19901201' '20180920'] [20/885]
+2018-09-11 09:24:03,620 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300424.SZ' '19901201' '20180920'] [26/885]
+2018-09-11 09:24:04,541 - mysql_init.py[line:109] - INFO:  影响6062行
+2018-09-11 09:24:04,541 - mysql_init.py[line:109] - INFO:  影响6449行
+2018-09-11 09:24:04,797 - mysql_init.py[line:109] - INFO:  影响831行
+2018-09-11 09:24:04,798 - mysql_init.py[line:109] - INFO:  影响1993行
+2018-09-11 09:24:05,421 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000017.SZ' '19901201' '20180920'] [14/885]
+2018-09-11 09:24:05,615 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002444.SZ' '19901201' '20180920'] [21/885]
+2018-09-11 09:24:05,615 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300425.SZ' '19901201' '20180920'] [27/885]
+2018-09-11 09:24:05,615 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600683.SH' '19901201' '20180920'] [16/885]
+2018-09-11 09:24:08,628 - mysql_init.py[line:109] - INFO:  影响1988行
+2018-09-11 09:24:09,326 - mysql_init.py[line:109] - INFO:  影响6447行
+2018-09-11 09:24:09,327 - mysql_init.py[line:109] - INFO:  影响872行
+2018-09-11 09:24:09,811 - mysql_init.py[line:109] - INFO:  影响6057行
+2018-09-11 09:24:09,813 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002445.SZ' '19901201' '20180920'] [22/885]
+2018-09-11 09:24:10,154 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000018.SZ' '19901201' '20180920'] [15/885]
+2018-09-11 09:24:10,687 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300426.SZ' '19901201' '20180920'] [28/885]
+2018-09-11 09:24:10,687 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600684.SH' '19901201' '20180920'] [17/885]
+2018-09-11 09:24:11,220 - mysql_init.py[line:109] - INFO:  影响1988行
+2018-09-11 09:24:11,991 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002446.SZ' '19901201' '20180920'] [23/885]
+2018-09-11 09:24:12,317 - mysql_init.py[line:109] - INFO:  影响871行
+2018-09-11 09:24:12,858 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300427.SZ' '19901201' '20180920'] [29/885]
+2018-09-11 09:24:13,295 - mysql_init.py[line:109] - INFO:  影响6054行
+2018-09-11 09:24:13,521 - mysql_init.py[line:109] - INFO:  影响1988行
+2018-09-11 09:24:13,825 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600685.SH' '19901201' '20180920'] [18/885]
+2018-09-11 09:24:14,345 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002447.SZ' '19901201' '20180920'] [24/885]
+2018-09-11 09:24:18,149 - mysql_init.py[line:109] - INFO:  影响871行
+2018-09-11 09:24:18,572 - mysql_init.py[line:109] - INFO:  影响6393行
+2018-09-11 09:24:18,572 - mysql_init.py[line:109] - INFO:  影响1988行
+2018-09-11 09:24:18,573 - mysql_init.py[line:109] - INFO:  影响6054行
+2018-09-11 09:24:18,746 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300428.SZ' '19901201' '20180920'] [30/885]
+2018-09-11 09:24:19,239 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600686.SH' '19901201' '20180920'] [19/885]
+2018-09-11 09:24:19,750 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002448.SZ' '19901201' '20180920'] [25/885]
+2018-09-11 09:24:19,751 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000019.SZ' '19901201' '20180920'] [16/885]
+2018-09-11 09:24:20,392 - mysql_init.py[line:109] - INFO:  影响854行
+2018-09-11 09:24:20,784 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300429.SZ' '19901201' '20180920'] [31/885]
+2018-09-11 09:24:22,621 - mysql_init.py[line:109] - INFO:  影响1985行
+2018-09-11 09:24:23,066 - mysql_init.py[line:109] - INFO:  影响6047行
+2018-09-11 09:24:23,571 - mysql_init.py[line:109] - INFO:  影响851行
+2018-09-11 09:24:23,571 - mysql_init.py[line:109] - INFO:  影响6311行
+2018-09-11 09:24:24,064 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002449.SZ' '19901201' '20180920'] [26/885]
+2018-09-11 09:24:24,450 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600687.SH' '19901201' '20180920'] [20/885]
+2018-09-11 09:24:24,723 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000020.SZ' '19901201' '20180920'] [17/885]
+2018-09-11 09:24:24,724 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300430.SZ' '19901201' '20180920'] [32/885]
+2018-09-11 09:24:25,849 - mysql_init.py[line:109] - INFO:  影响1985行
+2018-09-11 09:24:26,244 - mysql_init.py[line:109] - INFO:  影响854行
+2018-09-11 09:24:26,356 - mysql_init.py[line:109] - INFO:  影响6047行
+2018-09-11 09:24:26,368 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002450.SZ' '19901201' '20180920'] [27/885]
+2018-09-11 09:24:26,705 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300431.SZ' '19901201' '20180920'] [33/885]
+2018-09-11 09:24:27,409 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600688.SH' '19901201' '20180920'] [21/885]
+2018-09-11 09:24:27,655 - mysql_init.py[line:109] - INFO:  影响6427行
+2018-09-11 09:24:28,668 - mysql_init.py[line:109] - INFO:  影响851行
+2018-09-11 09:24:28,785 - mysql_init.py[line:109] - INFO:  影响1985行
+2018-09-11 09:24:28,785 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000021.SZ' '19901201' '20180920'] [18/885]
+2018-09-11 09:24:29,318 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300432.SZ' '19901201' '20180920'] [34/885]
+2018-09-11 09:24:29,534 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002451.SZ' '19901201' '20180920'] [28/885]
+2018-09-11 09:24:30,363 - mysql_init.py[line:109] - INFO:  影响6047行
+2018-09-11 09:24:30,657 - mysql_init.py[line:109] - INFO:  影响854行
+2018-09-11 09:24:31,411 - mysql_init.py[line:109] - INFO:  影响1983行
+2018-09-11 09:24:31,868 - mysql_init.py[line:109] - INFO:  影响5980行
+2018-09-11 09:24:31,868 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300433.SZ' '19901201' '20180920'] [35/885]
+2018-09-11 09:24:31,868 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600689.SH' '19901201' '20180920'] [22/885]
+2018-09-11 09:24:32,270 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002452.SZ' '19901201' '20180920'] [29/885]
+2018-09-11 09:24:32,515 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000022.SZ' '19901201' '20180920'] [19/885]
+2018-09-11 09:24:33,279 - mysql_init.py[line:109] - INFO:  影响855行
+2018-09-11 09:24:34,197 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300434.SZ' '19901201' '20180920'] [36/885]
+2018-09-11 09:24:34,925 - mysql_init.py[line:109] - INFO:  影响6047行
+2018-09-11 09:24:35,205 - mysql_init.py[line:109] - INFO:  影响6173行
+2018-09-11 09:24:35,206 - mysql_init.py[line:109] - INFO:  影响1983行
+2018-09-11 09:24:35,806 - mysql_init.py[line:109] - INFO:  影响829行
+2018-09-11 09:24:36,382 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000023.SZ' '19901201' '20180920'] [20/885]
+2018-09-11 09:24:36,383 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002453.SZ' '19901201' '20180920'] [30/885]
+2018-09-11 09:24:36,384 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600690.SH' '19901201' '20180920'] [23/885]
+2018-09-11 09:24:36,408 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300435.SZ' '19901201' '20180920'] [37/885]
+2018-09-11 09:24:40,722 - mysql_init.py[line:109] - INFO:  影响849行
+2018-09-11 09:24:41,205 - mysql_init.py[line:109] - INFO:  影响1983行
+2018-09-11 09:24:41,205 - mysql_init.py[line:109] - INFO:  影响6038行
+2018-09-11 09:24:41,205 - mysql_init.py[line:109] - INFO:  影响6177行
+2018-09-11 09:24:41,817 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300436.SZ' '19901201' '20180920'] [38/885]
+2018-09-11 09:24:42,311 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002454.SZ' '19901201' '20180920'] [31/885]
+2018-09-11 09:24:42,312 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000025.SZ' '19901201' '20180920'] [21/885]
+2018-09-11 09:24:42,315 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600691.SH' '19901201' '20180920'] [24/885]
+2018-09-11 09:24:43,588 - mysql_init.py[line:109] - INFO:  影响831行
+2018-09-11 09:24:44,709 - daily_crawler_mysql.py[line:61] - INFO: Thread-3抓取adj_factor['300437.SZ' '19901201' '20180920'] [39/885]
+2018-09-11 09:24:45,478 - mysql_init.py[line:109] - INFO:  影响1983行
+2018-09-11 09:24:45,785 - mysql_init.py[line:109] - INFO:  影响6038行
+2018-09-11 09:24:45,785 - mysql_init.py[line:109] - INFO:  影响6140行
+2018-09-11 09:24:46,371 - daily_crawler_mysql.py[line:61] - INFO: Thread-2抓取adj_factor['002455.SZ' '19901201' '20180920'] [32/885]
+2018-09-11 09:24:46,970 - mysql_init.py[line:109] - INFO:  影响830行
+2018-09-11 09:24:46,971 - daily_crawler_mysql.py[line:61] - INFO: Thread-1抓取adj_factor['000026.SZ' '19901201' '20180920'] [22/885]
+2018-09-11 09:24:46,972 - daily_crawler_mysql.py[line:61] - INFO: Thread-4抓取adj_factor['600692.SH' '19901201' '20180920'] [25/885]

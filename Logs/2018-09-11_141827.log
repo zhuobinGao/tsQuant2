@@ -1,0 +1,58 @@
+2018-09-11 14:18:27,845 - mysql_init.py[line:37] - INFO: 
+2018-09-11 14:18:27,846 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 14:18:27,940 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000002.SZ' '19901201' '20180920'] [1/7082]
+2018-09-11 14:18:28,546 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响16行
+2018-09-11 14:18:28,775 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000002.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:28,776 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000002.SZ' '20180904' '20180911'] [2/7082]
+2018-09-11 14:18:29,166 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响16行
+2018-09-11 14:18:29,259 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000002.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:29,261 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000004.SZ' '19901201' '20180920'] [3/7082]
+2018-09-11 14:18:29,801 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响54行
+2018-09-11 14:18:30,000 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000004.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:30,002 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000004.SZ' '20180904' '20180911'] [4/7082]
+2018-09-11 14:18:30,361 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响54行
+2018-09-11 14:18:30,456 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000004.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:30,457 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000005.SZ' '19901201' '20180920'] [5/7082]
+2018-09-11 14:18:30,933 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响50行
+2018-09-11 14:18:31,216 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000005.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:31,217 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000005.SZ' '20180904' '20180911'] [6/7082]
+2018-09-11 14:18:32,002 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响50行
+2018-09-11 14:18:32,117 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000005.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:32,118 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000006.SZ' '19901201' '20180920'] [7/7082]
+2018-09-11 14:18:35,476 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响36行
+2018-09-11 14:18:35,693 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000006.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:35,694 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000006.SZ' '20180904' '20180911'] [8/7082]
+2018-09-11 14:18:36,140 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响36行
+2018-09-11 14:18:36,384 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000006.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:36,384 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000007.SZ' '19901201' '20180920'] [9/7082]
+2018-09-11 14:18:36,833 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响63行
+2018-09-11 14:18:37,008 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000007.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:37,010 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000007.SZ' '20180904' '20180911'] [10/7082]
+2018-09-11 14:18:37,405 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响63行
+2018-09-11 14:18:37,522 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000007.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:37,523 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000008.SZ' '19901201' '20180920'] [11/7082]
+2018-09-11 14:18:38,176 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响39行
+2018-09-11 14:18:38,310 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000008.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:38,312 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000008.SZ' '20180904' '20180911'] [12/7082]
+2018-09-11 14:18:38,678 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响39行
+2018-09-11 14:18:38,909 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000008.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:38,909 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000009.SZ' '19901201' '20180920'] [13/7082]
+2018-09-11 14:18:39,701 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响15行
+2018-09-11 14:18:41,093 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000009.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:41,093 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000009.SZ' '20180904' '20180911'] [14/7082]
+2018-09-11 14:18:41,409 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响15行
+2018-09-11 14:18:41,502 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000009.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:41,503 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000010.SZ' '19901201' '20180920'] [15/7082]
+2018-09-11 14:18:42,151 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响56行
+2018-09-11 14:18:42,368 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000010.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:42,369 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000010.SZ' '20180904' '20180911'] [16/7082]
+2018-09-11 14:18:42,815 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响56行
+2018-09-11 14:18:42,910 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000010.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:42,910 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000011.SZ' '19901201' '20180920'] [17/7082]
+2018-09-11 14:18:43,276 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响47行
+2018-09-11 14:18:43,651 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000011.SZ' '19901201' '20180920']]状态
+2018-09-11 14:18:43,652 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000011.SZ' '20180904' '20180911'] [18/7082]
+2018-09-11 14:18:43,984 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响47行
+2018-09-11 14:18:44,244 - mysql_init.py[line:37] - INFO: 更新执行任务forecast[['000011.SZ' '20180904' '20180911']]状态
+2018-09-11 14:18:44,245 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取forecast['000012.SZ' '19901201' '20180920'] [19/7082]
+2018-09-11 14:18:44,768 - mysql_init.py[line:120] - INFO: 执行任务forecast 影响26行

@@ -1,0 +1,48 @@
+2018-09-11 15:42:22,071 - mysql_init.py[line:37] - INFO: 
+2018-09-11 15:42:22,071 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 15:42:22,112 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000001.SZ' '19901201' '20180920'] [1/3542]
+2018-09-11 15:42:22,608 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响61行
+2018-09-11 15:42:22,824 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000001.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:22,825 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000002.SZ' '19901201' '20180920'] [2/3542]
+2018-09-11 15:42:23,309 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响37行
+2018-09-11 15:42:23,501 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000002.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:23,501 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000004.SZ' '19901201' '20180920'] [3/3542]
+2018-09-11 15:42:23,731 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响39行
+2018-09-11 15:42:23,894 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000004.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:23,894 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000005.SZ' '19901201' '20180920'] [4/3542]
+2018-09-11 15:42:24,165 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响41行
+2018-09-11 15:42:24,550 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000005.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:24,550 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000006.SZ' '19901201' '20180920'] [5/3542]
+2018-09-11 15:42:24,882 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响39行
+2018-09-11 15:42:25,023 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000006.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:25,024 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000007.SZ' '19901201' '20180920'] [6/3542]
+2018-09-11 15:42:25,343 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响37行
+2018-09-11 15:42:25,632 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000007.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:25,633 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000008.SZ' '19901201' '20180920'] [7/3542]
+2018-09-11 15:42:26,083 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响43行
+2018-09-11 15:42:26,309 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000008.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:26,309 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000009.SZ' '19901201' '20180920'] [8/3542]
+2018-09-11 15:42:26,666 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响37行
+2018-09-11 15:42:27,035 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000009.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:27,037 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000010.SZ' '19901201' '20180920'] [9/3542]
+2018-09-11 15:42:28,042 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响39行
+2018-09-11 15:42:28,234 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000010.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:28,235 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000011.SZ' '19901201' '20180920'] [10/3542]
+2018-09-11 15:42:28,966 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响41行
+2018-09-11 15:42:29,485 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000011.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:29,486 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000012.SZ' '19901201' '20180920'] [11/3542]
+2018-09-11 15:42:30,084 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响37行
+2018-09-11 15:42:30,382 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000012.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:30,383 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000014.SZ' '19901201' '20180920'] [12/3542]
+2018-09-11 15:42:30,900 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响41行
+2018-09-11 15:42:31,133 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000014.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:31,134 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000016.SZ' '19901201' '20180920'] [13/3542]
+2018-09-11 15:42:31,700 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响39行
+2018-09-11 15:42:32,034 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000016.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:32,035 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000017.SZ' '19901201' '20180920'] [14/3542]
+2018-09-11 15:42:32,843 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响37行
+2018-09-11 15:42:33,034 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000017.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:33,034 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000018.SZ' '19901201' '20180920'] [15/3542]
+2018-09-11 15:42:34,619 - mysql_init.py[line:115] - INFO: 执行任务fina_audit 影响37行
+2018-09-11 15:42:34,917 - mysql_init.py[line:37] - INFO: 更新执行任务fina_audit[['000018.SZ' '19901201' '20180920']]状态
+2018-09-11 15:42:34,917 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_audit['000019.SZ' '19901201' '20180920'] [16/3542]

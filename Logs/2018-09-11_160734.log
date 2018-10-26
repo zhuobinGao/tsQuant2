@@ -1,0 +1,12 @@
+2018-09-11 16:07:35,042 - mysql_init.py[line:37] - INFO: 
+2018-09-11 16:07:35,042 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 16:07:35,089 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_indicator['000001.SZ' '19901201' '20180920'] [1/3542]
+2018-09-11 16:07:35,089 - finance_crawler_mysql.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19901201-19911126]任务[1/29]fina_indicator
+2018-09-11 16:07:39,511 - mysql_init.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19901201-19911126]任务[1/29]fina_indicator 影响1行
+2018-09-11 16:07:39,511 - finance_crawler_mysql.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19911126-19921120]任务[2/29]fina_indicator
+2018-09-11 16:07:58,980 - mysql_init.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19911126-19921120]任务[2/29]fina_indicator 影响1行
+2018-09-11 16:07:58,980 - finance_crawler_mysql.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19921120-19931115]任务[3/29]fina_indicator
+2018-09-11 16:08:11,199 - mysql_init.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19921120-19931115]任务[3/29]fina_indicator 影响1行
+2018-09-11 16:08:11,199 - finance_crawler_mysql.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19931115-19941110]任务[4/29]fina_indicator
+2018-09-11 16:08:15,340 - mysql_init.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19931115-19941110]任务[4/29]fina_indicator 影响2行
+2018-09-11 16:08:15,340 - finance_crawler_mysql.py[line:115] - INFO: Thread-1子线程执行000001.SZ[19941110-19951105]任务[5/29]fina_indicator

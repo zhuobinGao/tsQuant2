@@ -1,0 +1,6 @@
+2018-09-11 11:07:56,650 - daily_crawler_mysql.py[line:19] - INFO: 已设置初始任务
+2018-09-11 11:07:56,697 - daily_crawler_mysql.py[line:62] - INFO: Thread-1抓取daily_basic['000022.SZ' '19901201' '20180920'] [1/3524]
+2018-09-11 11:08:01,045 - mysql_init.py[line:116] - INFO: 执行任务daily_basic 影响4000行
+2018-09-11 11:08:01,193 - daily_crawler_mysql.py[line:62] - INFO: Thread-1抓取daily_basic['000023.SZ' '19901201' '20180920'] [2/3524]
+2018-09-11 11:08:05,528 - mysql_init.py[line:116] - INFO: 执行任务daily_basic 影响4000行
+2018-09-11 11:08:05,687 - daily_crawler_mysql.py[line:62] - INFO: Thread-1抓取daily_basic['000025.SZ' '19901201' '20180920'] [3/3524]

@@ -1,0 +1,31 @@
+2018-09-11 11:55:20,550 - mysql_init.py[line:37] - INFO: 
+2018-09-11 11:55:20,550 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 11:55:20,639 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000001.SZ' '20180904' '20180911'] [1/7080]
+2018-09-11 11:55:21,518 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:55:21,519 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000002.SZ' '19901201' '20180920'] [2/7080]
+2018-09-11 11:55:22,239 - mysql_init.py[line:117] - INFO: 执行任务balancesheet 影响31行
+2018-09-11 11:55:22,428 - mysql_init.py[line:37] - INFO: 更新执行任务balancesheet[['000002.SZ' '19901201' '20180920']]状态
+2018-09-11 11:55:22,430 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000002.SZ' '20180904' '20180911'] [3/7080]
+2018-09-11 11:55:22,781 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:55:22,782 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000004.SZ' '19901201' '20180920'] [4/7080]
+2018-09-11 11:55:23,497 - mysql_init.py[line:117] - INFO: 执行任务balancesheet 影响30行
+2018-09-11 11:55:23,698 - mysql_init.py[line:37] - INFO: 更新执行任务balancesheet[['000004.SZ' '19901201' '20180920']]状态
+2018-09-11 11:55:23,699 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000004.SZ' '20180904' '20180911'] [5/7080]
+2018-09-11 11:55:24,192 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:55:24,192 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000005.SZ' '19901201' '20180920'] [6/7080]
+2018-09-11 11:55:25,031 - mysql_init.py[line:117] - INFO: 执行任务balancesheet 影响30行
+2018-09-11 11:55:25,363 - mysql_init.py[line:37] - INFO: 更新执行任务balancesheet[['000005.SZ' '19901201' '20180920']]状态
+2018-09-11 11:55:25,364 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000005.SZ' '20180904' '20180911'] [7/7080]
+2018-09-11 11:55:25,558 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:55:25,558 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000006.SZ' '19901201' '20180920'] [8/7080]
+2018-09-11 11:55:26,806 - mysql_init.py[line:117] - INFO: 执行任务balancesheet 影响30行
+2018-09-11 11:55:27,110 - mysql_init.py[line:37] - INFO: 更新执行任务balancesheet[['000006.SZ' '19901201' '20180920']]状态
+2018-09-11 11:55:27,110 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000006.SZ' '20180904' '20180911'] [9/7080]
+2018-09-11 11:55:27,570 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:55:27,571 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000007.SZ' '19901201' '20180920'] [10/7080]
+2018-09-11 11:55:28,422 - mysql_init.py[line:117] - INFO: 执行任务balancesheet 影响30行
+2018-09-11 11:55:28,766 - mysql_init.py[line:37] - INFO: 更新执行任务balancesheet[['000007.SZ' '19901201' '20180920']]状态
+2018-09-11 11:55:28,767 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000007.SZ' '20180904' '20180911'] [11/7080]
+2018-09-11 11:55:29,111 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 11:55:29,112 - finance_crawler_mysql.py[line:62] - INFO: Thread-1抓取balancesheet['000008.SZ' '19901201' '20180920'] [12/7080]
+2018-09-11 11:55:30,781 - mysql_init.py[line:117] - INFO: 执行任务balancesheet 影响30行

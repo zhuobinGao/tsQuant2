@@ -1,0 +1,3 @@
+2018-09-11 16:05:12,853 - mysql_init.py[line:37] - INFO: 
+2018-09-11 16:05:12,853 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 16:05:12,900 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取fina_indicator['000001.SZ' '19901201' '20180920'] [1/3542]

@@ -1,0 +1,32 @@
+2018-09-11 15:28:55,036 - mysql_init.py[line:37] - INFO: 
+2018-09-11 15:28:55,037 - finance_crawler_mysql.py[line:31] - INFO: 已经设置财务任务[19901201-20180920]3542
+2018-09-11 15:28:55,084 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000001.SZ' '19901201' '20180920'] [1/3542]
+2018-09-11 15:28:55,303 - mysql_init.py[line:86] - INFO: 数据为空
+2018-09-11 15:28:55,304 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000002.SZ' '19901201' '20180920'] [2/3542]
+2018-09-11 15:28:55,742 - mysql_init.py[line:120] - INFO: 执行任务express 影响2行
+2018-09-11 15:28:55,952 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000002.SZ' '19901201' '20180920']]状态
+2018-09-11 15:28:55,954 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000004.SZ' '19901201' '20180920'] [3/3542]
+2018-09-11 15:28:56,455 - mysql_init.py[line:120] - INFO: 执行任务express 影响11行
+2018-09-11 15:28:56,695 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000004.SZ' '19901201' '20180920']]状态
+2018-09-11 15:28:56,696 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000005.SZ' '19901201' '20180920'] [4/3542]
+2018-09-11 15:28:57,518 - mysql_init.py[line:120] - INFO: 执行任务express 影响13行
+2018-09-11 15:28:57,661 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000005.SZ' '19901201' '20180920']]状态
+2018-09-11 15:28:57,662 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000006.SZ' '19901201' '20180920'] [5/3542]
+2018-09-11 15:28:58,115 - mysql_init.py[line:120] - INFO: 执行任务express 影响19行
+2018-09-11 15:28:58,235 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000006.SZ' '19901201' '20180920']]状态
+2018-09-11 15:28:58,236 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000007.SZ' '19901201' '20180920'] [6/3542]
+2018-09-11 15:28:58,574 - mysql_init.py[line:120] - INFO: 执行任务express 影响11行
+2018-09-11 15:28:58,707 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000007.SZ' '19901201' '20180920']]状态
+2018-09-11 15:28:58,708 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000008.SZ' '19901201' '20180920'] [7/3542]
+2018-09-11 15:28:59,166 - mysql_init.py[line:120] - INFO: 执行任务express 影响5行
+2018-09-11 15:28:59,324 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000008.SZ' '19901201' '20180920']]状态
+2018-09-11 15:28:59,325 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000009.SZ' '19901201' '20180920'] [8/3542]
+2018-09-11 15:28:59,719 - mysql_init.py[line:120] - INFO: 执行任务express 影响3行
+2018-09-11 15:29:00,019 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000009.SZ' '19901201' '20180920']]状态
+2018-09-11 15:29:00,019 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000010.SZ' '19901201' '20180920'] [9/3542]
+2018-09-11 15:29:00,874 - mysql_init.py[line:120] - INFO: 执行任务express 影响15行
+2018-09-11 15:29:01,195 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000010.SZ' '19901201' '20180920']]状态
+2018-09-11 15:29:01,196 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000011.SZ' '19901201' '20180920'] [10/3542]
+2018-09-11 15:29:02,717 - mysql_init.py[line:120] - INFO: 执行任务express 影响3行
+2018-09-11 15:29:02,951 - mysql_init.py[line:37] - INFO: 更新执行任务express[['000011.SZ' '19901201' '20180920']]状态
+2018-09-11 15:29:02,952 - finance_crawler_mysql.py[line:60] - INFO: Thread-1抓取express['000012.SZ' '19901201' '20180920'] [11/3542]
